@@ -1,0 +1,3 @@
+﻿Version avancée 
+
+Se dit d'un logiciel qui est en cours de développement. Ce terme permet de différencier la version en évolution d'un logiciel, qui est encore à un stade entre alpha et RC, de sa version stable. Ainsi vous pouvez choisir entre le logiciel Tartempion version stable 1.0 par exemple, et sa version avancée 1.1 (son utilisation est déconseillée à moins d'avoir absolument besoin des nouvelles fonctionnalités qui ne sont pas dans la version stable ou dans le but de tests).

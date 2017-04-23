@@ -1,0 +1,10 @@
+﻿Version bêta 
+
+Le test bêta — on utilise fréquemment le terme anglais beta-test — est la deuxième période d'essai d'un produit informatique avant sa publication. Un produit en période de test bêta est généralement soumis à un nombre important ou représentatif de personnes: les bêta-testeurs. Ils peuvent être soit des employés de la société qui développe le logiciel, soit dans bénévoles notamment dans le cas des logiciels libres. Ces personnes ont pour but d'utiliser le logiciel et de rapporter les problèmes rencontrés ainsi que leurs suggestions.
+
+Le but de cette phase est d'implémenter toutes les fonctionnalités du logiciel final. Le test bêta sert essentiellement à trouver des bogues résiduels, ou bien à modifier l'interface utilisateur.
+
+Il existe deux formes de test bêta :
+
+    * la bêta ouverte, où n'importe qui peut participer, avec parfois une restriction technique (nombre d'utilisateurs connectés simultanément, etc.);
+    * la bêta fermée, où les personnes intéressées par le produit doivent s'inscrire au préalable ou sont contactées par les fabricants du produit testé qui sélectionne les candidatures.

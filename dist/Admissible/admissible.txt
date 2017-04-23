@@ -1,0 +1,4 @@
+﻿Version admissible ou pre-release 
+
+Une version admissible, bien que le terme anglais release candidate (souvent abrégé en RC) soit beaucoup plus utilisé, est une version du logiciel qui correspond, du coté pratique, à la version « finale » ou « stable » du dit logiciel; elle est mise à disposition à des fins de « tests de dernière minute » visant à déceler les toutes dernières erreurs subsistant au sein du programme.es fonctionnalités, et contient un nombre de bogues encore important.
+

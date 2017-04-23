@@ -1,0 +1,7 @@
+﻿Version stable 
+
+On parle aussi parfois de version or (de l'anglais gold, aussi appelée version GA, pour General Availability.
+
+Quand un logiciel peut accomplir toutes les tâches prévues, il arrive à sa version « finale » ou « stable ». C'est cette version qui est généralement mise sur autre support de publication: CD-ROM, DVD, etc.
+
+Bien que finale, on trouve toujours de nouveaux besoins auxquels un logiciel doit s'adapter, en ajoutant de nouvelles fonctionnalités. Donc un nouveau cycle de développement recommence à partir cette version du logiciel. Ces mises à jour sont mises à disposition sous forme de patch, ou sont intégrés à la prochaine version stable du logiciel.

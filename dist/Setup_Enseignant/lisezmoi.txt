@@ -1,0 +1,73 @@
+
+Application : Cadet
+Version : 1.0 du 17/01/2008
+Auteurs : JF.PACORY, M.ALLAS, M.BOUKERROUI
+Master 2 CCI Promotion 2007/2008 
+WWW : http://desscci.univ-tours.fr
+
+*******************************************************************************
+1 Présentation
+
+Cadet est un logiciel qui permet la traduction d'expressions arithmétiques 
+parenthésées en lignes d'instructions programme d'une machine à pile.
+Inno setup permet l'installation d’Cadet sur votre ordinateur
+
+*******************************************************************************
+2 Indications
+
+L'application sera installée dans C:\program files\Cadet pour la version enseignant
+et dans C:\Documents and Settings pour la version utilisateur
+Icônes de raccourcis créées sur votre bureau : 
+Cadet : le lanceur de l'application
+Sources d'Cadet : *
+Icônes de raccourcis créées dans le menu Démarrer / Cadet  : 
+Cadet : le lanceur de l'application
+Aide : aide de l’application (documentation compilée)
+Désinstaller Cadet :  retirer le logiciel de votre système
+Documentation : documentation de l’application
+Lisez-moi : le présent fichier
+* Sources d'Cadet : accès au code source :  pour l’installation enseignant uniquement.
+
+*******************************************************************************
+3 Installation
+
+Contenu du dossier c:\program files\Cadet
+------------------------
+1 fichier "codegenere.xslt"
+1 fichier "default.css"
+1 fichier "documentation.html"
+1 fichier "Cadet.chm"
+1 fichier "Cadet.exe"
+1 fichier "lisezmoi.txt"
+1 fichier "lisezmoi.txt"
+1 fichier "presentation.html"
+1 fichier "unins000.dat"
+1 fichier "unins000.exe"
+1 répertoire "exécutables" contenant tous les fichiers programme MAP (.exec)
+1 répertoire "images" contenant les images de styles
+( 1 répertoire "Sources" contenant tous les fichiers code source :  
+pour l’installation enseignant uniquement.)
+
+*******************************************************************************
+4 Spécification
+
+L'installation de ce logiciel requiert un espace disque d'au moins 25 Mo
+
+A propos du programme
+---------------------
+Cadet est écrit en Borland Turbo Delphi Explorer 2006
+
+Le programme n'utilise aucun composant extérieur
+
+Les unités métiers sont de M. RM DI SCALA et ont été traduites par l'équipe de développement agile.
+
+*******************************************************************************
+5 Remerciements
+
+Nous remercions toutes les personnes qui ont participé au développement, aux tests, 
+rapports de bogues, suggestions de nouvelles fonctionnalités
+Nous remercions également toutes les personnes qui ont choisi Cadet
+Si vous souhaitez encourager les auteurs de ce logiciel, rendez-vous sur 
+cette page http://forum.mln-messenger.com
+
+*******************************************************************************

@@ -1,0 +1,3 @@
+﻿Prototype 
+
+Un prototype est un premier jet de l'application, ne disposant que de peu - voire pas - de réelles fonctionnalités, et permettant d'avoir un aperçu visuel de l'objectif recherché. On parle également de maquette.

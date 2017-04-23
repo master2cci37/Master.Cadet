@@ -1,0 +1,3 @@
+﻿Version alpha
+
+Une version alpha n'est pas censée être accessible à un large public : c'est une version interne. C'est la première phase de développement concret du logiciel après le codage de l'application. Généralement, un produit en test alpha — on utilise couramment le terme anglais alpha-test — n'a pas toutes les fonctionnalités prévues dans le produit final, contrairement à un produit en test bêta qui devrait être complet. L'alpha est donc dépourvue de certaines fonctionnalités, et contient un nombre de bogues encore important.
