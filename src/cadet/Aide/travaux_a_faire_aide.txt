@@ -1,0 +1,51 @@
+Aide à terminer pour lundi matin :
+
+Répertoire  Examap\aide
+et  Examap\aide\images pour les images 
+
+conseils :
+
+1. n'utiliser que ces fichiers
+2. mettre les images en JPG
+3. attention à l'orthographe
+4. ne pas utiliser d autres balises que <h1><h2><h3><p><ul><li><br> par exemple
+5. faire une simple présentation de 5/10 lignes si pas de traitements particuliers
+6. voir les modeles de page_animation, presentation_application
+
+JF
+---------------------------
+contacts_et_informations.html
+description_des_menus.html
+informations_de_base.html
+page_animation.html
+personnaliser_application.html
+page_desassemblage.html
+nouveautes.html
+presentation_application.html
+
+Mehdi
+---------------------------
+remerciements.html
+raccourcis_clavier.html
+page_expression.html
+page_a_propos.html
+page_code.html
+page_compilation.html
+
+Mahmoud
+---------------------------
+menu_affichage.html
+menu_traitements.html
+menu_aide.html
+menu_fichier.html 
+page_accueil.html
+page_documentation.html
+page_executable.html
+
+
+
+ 
+
+
+ 
+ 
