@@ -1,0 +1,562 @@
+
+Fonds associatif sans droit de reprise.
+
+1021 Valeur du patrimoine integre de la loi de 1901 ).
+1023. Subventions d'investissement non renouvelables.
+1026. Liberalites ayant le caractère d'apport.
+
+1031 Valeur des biens affectes repris a la fin du contrat d'apport
+1032. Valeur des biens affectes repris a la dissolution de l'association
+1033 Valeur des biens nOn affectes repns a la fifl du cOfltrat d'apport
+apport (assorttes d'ufle obltgattofl ou d ur)e cOr)dit/Oflj
+associatlf avec drott de repnse iflscrit au compte de resultat
+Écarts de réévaluation
+
+d'un droit de repnse)
+J053J Écarts de reevaluatiofl (immobilisatlOflS grevees d'ufl droit de reprise avaflt dissolutton
+de l'association)
+
+l'associatiofl)
+
+
+réserves
+J0682 Reserves pour [nvesttssements
+10683 Reserves de tresorerfe (provenaflt du resultatl
+
+A NOUVEAU
+à nouveau lsolde créditeur).
+
+NET DE L'EXERCICE
+Résultat de l'exercice lexcédentl
+
+D'INVESTISSEMENT (renouvelablesj
+d'investissement (ref10uvelables}.
+~. ~~~v~nti~n~ d'investissement inscrites au compte de résultat.
+
+
+ 157 Provisions pour charges à répartir sur plusieurs exercices
+ 1572 ProvIsIons pour grosses reparations
+ 16. EMPRUNTS ET DETTES ASSIMILÉES
+ 164 Emprunts auprès des établissements de credlt
+ 1641. Emprunts (à détailler)
+ 167 Emprunts et dettes assorties de conditIons particulières.
+ 1672. TItres associatifs.
+ 168. Autres emprunts et dettes assimilées
+ 1681. Autres emprunts (à détailler).
+ ~ 685 Rentes vIagères capltalisèes
+ ~ 687 Autres dettes tà dètalller)
+ ~ 688 Intèréts courus tà detailler).
+ 18. COMPTES DE LIAISON DES ÉTABLISSEMENTS
+ '87 Aooorts pet-malielits elit,.e stége socia er ~~ao ssen'ents
+ ~ 85 6iens et prestations de services echanges entre établissements et siège social.
+ 19. PROJET ASSOCIATIF
+ ~ 9 7 a 797 Affectattot-l au projet assoctattf
+ 798 ExGedet-lt dtspolitble apt-es affecrattot-l a~ Gr~ - ~ - ,. asscctatif
+ ~99 Reot-tse des fOlids affectes au projet assoc - ~.",
+
+ - -~ ~ -~~~~ ~
+ Classe 2. Comptes d'immobilisations
+ --~- -~-~- ~- -- ~--
+ 20 IMMOBILISATIONS INCORPORELLES
+ 201 FraIs d'etablissement
+ ZO12 Frais de premier etablissement.
+ 206. Droit au bail.
+ 208. Autres immobilisations incorporelles.
+ 21. IMMOBILISATIONS CORPORELLES
+ 211. Terrains.
+ 212 Agencements et aménagements de terrains
+ 213. Constructions.
+ 2131 6atiments.
+ 2135 Installations generales, agencements. amenagements des constructions
+ 214 Constructions sur sol d'autrui.
+ 215 Installations techniques, matériel et outillage industriels.
+ 2151 Installations complexes spécialisées.
+ 2154 Matériel industnel
+ 2155 Outillage industnel
+ 218 Autres immobilisations corporelles.
+ 2181 Installations générales, agencements. aménagements divers.
+ 2182 Materiel de transport
+ 2183 Materiel de bureau et maMriel informatIque
+ 2184 Mobilier
+ 2185 Cheptel
+ 23. IMMOBILISATIONS EN COURS
+ 231 Immobilisations corporelles en cours
+ 2313 Constructions.
+ 2315 Installations techniques materlel et outll:age Inaustnels
+ 2318 Autres immobilisations corporelles
+ . ,
+
+ à des participations. 6205
+ restant à effectuer sur titres de participation non libérés. (suitel
+
+ immobIlisés (droit de propriété).
+ 2711. Actions
+
+ Obligations.
+ Bons.
+
+
+ au personnel.
+
+ et cautionnements versés.
+ 2751. Dép6ts.
+ 2755. Cautionnements
+
+
+ courus (a detalllerl
+ immobilises non libér~s.
+
+ DES IMMOBILISATIONS
+
+ (méme ventilation que celle du compte ZO11.
+ immobilisatIons incorporelles
+
+ amenagements de terrains (méme ventilation que celle du compte 212).
+ (méme ventilation que celle du compte 2131.
+ - ~- --.- ~ sur sol d'autrui (méme ventilation que celle du compte 2141.
+ techniques, materiel et outillage industriels (méme ventilation que celle du
+ compte 215).
+ Autres immobilisations corporelles (méme ventilation que celle du compte 218).
+
+
+ Provisions pour dépréciation des immobilisations incorporelles.
+ 2906. Droit au bail.
+
+ pour dépréciation des immobilisations corporelles.
+ Terrains
+
+
+ de participation
+
+ pour dépréciation des autres immobilisations financières.
+ immobilisés (droit de propriété) (méme ventilation que celle du compte 271).
+
+ celle du compte 2741
+ et cautionnements verses (méme ventilation que celle du compte 275)
+ creances immobilisees (méme ventilation que celle du compte 276)
+
+ ~~~~ ~ - ~~ ~~~,
+ Classe 3. Comptes de stocks et en-cours
+~ -
+M 1IA~'~~~~ ~~~. ~~
+
+
+ 35. STOCKS DE PRODUITS
+ 37. STOCKS DE MARCHANDISES
+ 39. PROVISIONS POUR DEPRECIATION DES STOCKS ET EN-COURS
+ 391 ProvisIons pour dépréciation des matières premIères et fournitures.
+ 392. Provisions pour dépréciation des autres approvIsionnements.
+ 393. Provisions pour dépréciation des en-cours de production de biens.
+ 394. ProvisIons pour dépréciation des en-cours de production de services.
+ 395. Provisions pour dépréciation des stocks de produits
+ 397. Provisions pour dépréciation des stocks de marchandises.
+ La structure des comptes de la classe 3 sera ,~armonisee avec celle adoptee pour les
+ comptes 60 et 70
+ Les associatIons relèveront le plus souvent, non pas de l'inventaire permanent. mais de
+ l'inventaire intermittent
+
+ ,
+ l Classe 4. Comptes de tiers ,
+
+ 40. FOURNISSEURS ET COMPTES RATTACHÉS
+ 401. Foumisseurs.
+ 4011. Fournisseurs - Achats de biens ou de prestations de services.
+ 404. Fournisseurs d'immobilisations.
+ 4041. Fournisseurs - Achats d'immobilisations
+ 4047 Fournisseurs d'Immobilisations - Retenues de garantie
+ 408. Fournisseurs - Factures non parvenues.
+ 4081. Fournisseurs - Achats de biens ou de prestatIons de servIces
+ 4084 Fournisseurs - Achats d'immobIlisatIons
+ 4O9. Fournisseurs débiteurs.
+ 4091. Fournisseurs - Avances et acomptes versés sur commandes.
+ 4096 Foumisseurs - Créances pour emballages et matenel a rendre
+ 41. USAGERS ET COMPTES RATTACHEs
+ 4 ~ ~ Usagers (et o{.ganismes de p{.ise en cha{.ge)
+ 4 ~ 6. C{.éances douteuses ou litigieuses.
+ 4 ~ 8 Usagers - Produits non encore facturés
+ 4 ~ 9 Usagers créditeurs.
+42. PERSONNEL ET COMPTES RATTACHEs
+421. Personnel - Rémunérations dues.
+422. Comités d'entreprise, d'établissement...
+425. Personnel - Avances et acomptes.
+427 Personnel - Oppositions.
+428 Personnel - Charges à payer et produits à recevoir.
+ 4282. Dettes provisionnées pour congés à payer
+ 4286 Autres charges à payer
+ 4287 Produits a recevoir
+43. sEcURITÉ SOCIALE ET AUTRES ORGANISMES SOCIAUX
+431. Sécurité sociale.
+437. Autres organismes sociaux.
+ 4372. Mutuelles.
+ 4373 Caisses de retraites et de prevoyance
+ 4374. Caisse d'allocations de ch6mage - ASSEDIC.
+ .~~" . .
+
+ 44. ÉTAT ET AUTRES COLLECTIVITEs PUBLIQUES 620
+ 441. État - Subventions à recevoir. (suite
+ 4411. Subventions d'investissement.
+ 4417 SubventIons d exploitatIon
+ 4419 Avances sur subventions
+ 444. État - Impôts sur les bénéfices
+ 4445. État - Impôt sur les sociétés (o{.ganisfres sans but luc{.attrl
+ 445. État - Taxes sur le chiffre d'affaires.
+ 447 Autres impôts. taxes et versements assimilés.
+ 4471 Impôts, taxes et versements assImiles sur remunerations (administratIon des Imp6ts)
+ 44711 Taxe sur les salaires
+ 44713 ParticIpation des employeurs à la formation professionnelle contInue.
+ 44714 Cotisation pour défaut d'investissement oblIgatoire dans la construction.
+ 44718. Autres imp6ts. taxes et versements assimiles.
+ 4473. Imp6ts. taxes et versements assimilés sur rémunérations lautres organismes).
+ 44733 Participation des employeurs à la formation professionnelle continue.
+ 44734. Participation des employeurs à l'effort de construction (versements à fonds perdus).
+ 4475. Autres imp6ts, taxes et versements assimilés (administration des imp6ts).
+ 4477 Autres Imp6ts. taxes et versements assimiles lautres organismes).
+ 448. Etat - Charges à payer et produits à recevoir.
+ 4482. Charges fiscales sur congés à payer.
+ 4486 Autres charges à payer
+ 4487 Produits à recevoir
+ 45. CONFEDERATION, FEDERATION, ASSOCIATIONS AFFILIEES ET SOCIÉTAIRES
+ 45~ Confédé{.atton fédé{.ation et assoc/attons aff ltées - Compte cou{.ant
+ 455 Soctétai{.es - Comptes cou{.ants
+ 46. DEBITEURS DIVERS ET CREDITEURS DIVERS
+ 467 Autres comptes debiteurs ou créditeurs
+ 468. Divers - Charges à payer et produits à recevoir
+ 4686. Charges à payer
+ 4687 Produits à recevoir
+ 47. COMPTES D'ATTENTE
+ 47~ Recettes a classe{.
+ 472. Dépenses à classe{. et à {.égula{.ise{.
+ 48. COMPTES DE REGULARISATION
+ 481. Charges à repartir sur plusieurs exercices.
+ 4812. Frais d'acquisition des immobilisations.
+ 4818. Charges a etaler.
+ 486. Charges constatées d'avance.
+ 487 Produits constatés d'avance.
+ 49. PROVISIONS POUR DEPRECIATION DES COMPTES DE TIERS
+ 491. Provisions pour dépréciation des comptes d'usagers (et organismes de prise en charge).
+ 496. Provisions pour dépréciation des comptes de débiteurs divers.
+
+ Classe 5. Comptes financiers
+ ~ !
+
+ So. VALEURS MO6lLlÈRES DE PLACEMENT
+ sO3. Actions.
+ SO31. Titres cotés.
+ 5035 Titres non cotes
+
+
+508 Autres valeurs mobilières et creances assimilees
+5O81. Autres valeurs mobilieres.
+5088 Interêts courus sur obligations. bons et l ~ e~rs assiTliees
+51. BANQUES, ÉTABLISSEMENTS FINANCIERS ET ASSIMILÉS
+512 Banques.
+514 Chèques postaux.
+515. " Caisses " du Tresor et des etablissements publics
+517 Autres organismes financiers.
+5 ~ 7~ Catsse d'epargne.
+518 Interêts courus.
+5186. Interêts courus à payer.
+5187 Interêts courus a recevoir
+53. CAISSE
+531. Caisse du siège.
+532 Caisses des lieux d'actilZiMs
+54. RÉGIES D'AVANCES ET ACCRÉDITIFS
+541. Regies d'avances.
+542. Accréditifs.
+58. VIREMENTS INTERNES
+581. Virements de fonds.
+59. PROVISIONS POUR DÉPRÉCIATION DES COMPTES FINANCIERS
+59O. Provisions pour depreciation des valeurs mobilieres de placement.
+
+
+
+
+60. ACHATS (SAUF 603)
+601. Achats stockes - Matieres premières et fournitures (1).
+602. Achats stockes - Autres approvisionnements (11.
+604 Achats d' etudes et prestations de services (2)
+606. Achats non stockes de matieres et foumitures 11).
+6061. Foumitures non stockables leau, energie )
+6063, Foumitures d'entretien et de petit equipement
+6064. Foumitures administratives
+6068. Autres matieres et foumitures.
+6O7. Achats de marchandises.
+6071. Marchandise A.
+6072 Marchandise B.
+609. Rabais, remises et ristoumes obtenues sur achats.
+603. Variation des stocks (approvisionnements et marchandises)
+6031. Variation des stocks de matieres premieres et foumitures
+6032 Variation des stocks des autres approvisIonnements
+6037 Variation des stocks de marchandises
+61/62. AUTRES CHARGES EXTERNES
+61. SERVICES EXTÉRIEURS
+611. Sous-traitance generale.
+612. Redevances de crédit-bail.
+6122. Credit-bail mobilier.
+613. Locations.
+
+614 Charges locatives et de co-propnete 6205
+615 Entretien et reparations lsLJltej
+6152 sur bIens immobiliers
+ê155 sur bIens mobilIers
+6156 Malntenance
+616 Primes d'assurance.
+6161 Multlrisques.
+6162 Assurance obligatoire dommag~onstruction.
+6168 Autres assurances
+617 Études et recherches.
+618. Divers.
+6181. Documentation generale.
+6183 Documentation technique
+6185 Frais de colloques, semlnaires. conferences
+619 Rabais. remises et ristournes obtenus sur services exterieurs.
+
+62. AUTRES SERVICES EXTÉRIEURS
+621 Personnel exterieur à l'association
+622 Remunerations d'intermediaires et honoraires.
+6226. Honoraires
+6227 Frais d'actes et de contentieux
+623. Publicite. publications. relations publiques.
+6231. Annonces et insertions.
+6233 Foires et expositions
+6236 Catalogues et imprimes.
+6237 Publications.
+6238 Divers (pourboires, dons courants...).
+624. Transports de biens et transports collectifs du personnel.
+6241. Transports sur achats.
+6243 Transports entre etablissements.
+6247 Transports collectIfs du personnel
+6248 Divers
+625 Deplacements, missions et receptions
+6251 Voyages et deplacements
+6256 Missions
+6257 Receptions
+626. Frais postaux et frais de telecommunications.
+627 Services bancaires et assimiles.
+628. Divers.
+528 ~ Cotlsations (liees a l'actilZite économtque}
+6284 Frais de recrutement du personnel.
+629. Rabais, remises et ristournes obtenus sur autres services exterieurs.
+
+63. IMPÔTS, TAXES ET VERSEMENTS ASSIMILÉS
+631. ImpOts. taxes et versements assimiles sur remunerations ladministration des impOts).
+6311 Taxe sur les salaires
+6313 Parlicipation des employeurs à la-formation professionnelle continue.
+6314 Cotisation pour defaut d'InvestIssement obligatoire dans la construction
+633 ImpOts. taxes et versements assimiles sur remunerations (autres organismes).
+6331 Versement de transport.
+6333 ParllClpation des employeurs à la formation professionnelle continue
+6334 Participation des employeurs a l'effort de construction (versements a fonds perdus)
+~riS AIJtres imn6ts taxes et versements assimiles tadministration des impOts).
+
+
+6353 ImpOts indirects.
+6354 Droits d'enregistrement et de timbre
+6358 Autres droits
+637 Autres impÔts. taxes et versements assimiles (autres organismes).
+64. CHARGES DE PERSONNEL
+641. Remunerations du personnel.
+6411. Salaires. appointements.
+6412 Conges payes.
+6413. Primes et gratifications
+6414. Indemnites et avantages divers
+6415 Supplement familIal.
+645. Charges de sécurite sociale et de prévoyance
+6451. Cotisations à l'URSSAF.
+6452 Cotisations aux mutuelles.
+6453 Cotisations aux caisses de retraites et de prevoyance
+6454. Cotisations aux ASSEDIC.
+6458 Cotisations aux autres organismes socIaux
+647Autres charges sociales.
+6472. Versements aux comités d'entreprise et d'etablissement.
+6475 Médecine du travail. pharmacie
+648. Autres charges de personnel.
+65. AUTRES CHARGES DE GESTION COURANTE
+651. Redevances pour concessions, brevets. licences. procédes, droits et valeurs similaires.
+6511. Redevances pour concessions. brevets. lIcences. marques, procédés
+6516 Droits d'auteur et de reproduction (SACEMI
+6518 Autres droits et valeurs similaires
+654. Pertes sur creances irrecouvrables.
+6541. Créances de l'exercice.
+6544. Créances des exercices antérieurs
+657 Subventions versées par l'association.
+557J Bourses accordées aux usaçers.
+658. Charges diverses de gestion courante.
+5585. Cotisations (liées à la vie statutatre}
+66. CHARGES FINANCIERES
+661. Charges d'interêts.
+6611. Intérêts des emprunts et dettes.
+6616 Interêts bancaires
+6618 Interêts des autres dettes
+666. Pertes de change.
+667. Charges nettes sur cessions de valeurs mobilières de placement.
+67 CHARGES EXCEPTIONNELLES
+671 Charges exceptionnelles sur opérations de gestIon.
+6712. pénalités et amendes fiscales ou penales.
+6713. Dons. liberalites
+6714. Creances devenues irrecouvrables dans l'exercice.
+6717 Rappels d'impOts lautres qu'impOts sur les benefices)
+6718 Autres charges exceptionnelles sur operatlons de gestion
+672. Charges sur exercices antérieurs (à reclasser)
+675. Valeurs comptables des élements d'actif cedes
+6751. Immobilisations incorporelles.
+6752. Immobilisations corporelles
+
+6811. Dotations aux amortissements des immobilisations incorporelles et corporelles. 6205
+68111 ImmobIlIsatIons Incorporelles (suIte)
+68112 Immoollisatlons corporelles
+6812. Dotations aux amortissements des charges d'exploitation à repartir.
+6815 Dotations aux provisIons pour risques et charges d'exploItation
+6816 Dotations aux provisions pour depreciatlon des immobilisations incorporelles et corporelles
+68i7 DoIatlons aux provisions pour depreClaIlon des actIfs Clrculants (autres que les valeurs
+Tobilleres de placement)
+686 Dotatlons aux amortissements et aux provisions - Charges financières
+6866 Dotations aux provisions pour depreciation des elements financiers.
+68662 ImmobilIsations financieres
+68665 V aleurs mobilieres de placement
+687 Dotations aux amortissements et aux provisions - Charges exceptionnelles.
+6871. Dotations aux amortissements exceptionnels des immobilisations.
+6876 Dotations aux provisions pour depreciations exceptionnelles
+69. IMPOTS SUR LES BÉNÉFICES
+695. ImpOt sur les societes des personnes morales non lucratives.
+
+!
+, Classe 7. Comptes de produits
+~
+70. VENTES DE PRODUITS FINIS, PRESTATIONS DE SERVICES, MARCHANDISES
+701 Ventes de produits finis.
+706 Prestations de services
+7O7 Ventes de marchandises.
+708 Produits des activités annexes.
+7O81 Produits des prestations fournies au personnel.
+7083 Locations diverses
+7084 Mise à disposition de personnel facturee
+7088 Autres produits d'activites annexes
+709. Rabais. remises et ristournes accordes par l'association.
+71. PRODUCTION STOCKÉE (OU DÉSTOCKAGE)
+713. Variation des stocks (en-cours de production, produits).
+7133. Variation des en-cours de production de biens.
+7134 Variation des en-cours de production de services.
+7135. Variation des stocks de produits.
+72. PRODUCTION IMMOBILISÉE
+
+74. SUBVENTIONS D'EXPLOITATION
+75. AUTRES PRODUITS DE GESTION COURANTE
+751. Redevances pour concessions, brevets. licences, marques, procedés, droits et valeurs
+similaires.
+754 Collectes
+755 Cottsations
+757 Ouote-part d'éléments du fonds assoc[attf virée au compte de résultat
+757 J Ouote-part de subventtons d'investissement (renouvelables} virée au compte de résultat
+7573 Ouote-part des apports virée au compte de résultat
+758. Produits divers de gestion courante.
+7585 a 7588 Contributtons volonta[res
+76. PRODUITS FINANCIERS
+7~1 Pr"~"it~ ~D~ "~rtiri"~ti"n~
+
+
+ 765. Escomptes obtenus.
+ 766 Gains de change.
+ 767 Produits nets sur cessions de valeurs mobilleres de placement
+ 768 Autres produits financiers.
+ 7681. Interéts des comptes financiers debiteurs
+ 77 PRODUITS EXCEPTIONNELS
+ 771 Produits exceptionnels sur operations de gestion.
+ 7713. Liberalites perçues.
+ 7714 Rentrees sur creances amorties.
+ 7715 Subventions d'équilibre.
+ 7717Degrevements a'impOts lautres qu'impOts sur les benefices)
+ 7718 Autres produits exceptionnels sur operations de gestion
+ 772 Produits sur exercices anterieurs (à reclasser).
+ 775. Produits des cessions d'elements d'actif
+ 7751. Immobilisations incorporelles.
+ 7752 Immobilisations corporelles
+ 7756. Immobilisations financieres
+ 777 Quote-part des subventions d'investissement viree au resultat de l'exercice.
+ 778. Autres produits exceptionnels.
+ 78. REPRISES SUR AMORTISSEMENTS ET PROVISIONS
+ 781 Reprises sur amortissements et provisions tà inscrire dans les produits d'exploitation).
+ 7811 Reprises sur amortissements des immobilisations incorporelles et corporelles.
+ 7815 Reprises sur provisions pour risques et charges d'exploitation
+ 7816 Reprises sur provisions pour depreciation des immobilisations incorporelles et corporelles.
+ 7817 Repnses sur provisions pour depreciation des actIfs circulants tautres que les valeurs
+ mobilieres de placement)
+ 786 Reprises sur provisions (à inscrire dans les produits financiers).
+ 7866. Reprises sur provisions pour depreciation des elements financiers.
+ 78662 Immobilisations financieres
+ 78665 Valeurs mobilieres de placement.
+ 787Reprises sur provisions (à inscrire dans les produits exceptionnels)
+ 7876. Reprises sur provisions pour depreciations exceptionnelles
+ 79. TRANSFERTS DE CHARGES
+ 791. Transferts de charges d'exploitation.
+ 796. Transferts de charges financieres.
+ 797. Transferts de charges exceptionnelles.
+
+
+ l l
+
+ i Plan comptable OECC A
+ l i
+
+ i Liste complémentaire au plan CNV A l
+
+
+ Nota Les camptes specifiques aux assocotions sont présentés en caractères italiques
+10. FONDS ASSOCIATIF ET RÉSERVES
+ 7 024 Fonds de trésorerie apportés.
+ 7034 Valeur des biens no{l affectés repris à la f {1 du co{ltrat d'apport
+ 7035 Valeur des biem non affectés repris à la dtssolutio{l de l'associatio{l
+
+ 11. REPORT A NOUVEAU 6:
+ 7 70 Ex~eae't ~ !-eporte,. l~hangement d appeilatlon) ts~
+ 7 79 Def ctr ~ !-eporter (cnangement o'appellatlon)
+ 13. SUBVENTIONS D'INVESTISSEMENT RENOUVELABLES
+ 7377 État
+ 7372 CollecttviteS et établtssements publics
+ 7378 Autres subventions d'équipement reçues ldont taxe d'apprenttssage).
+ 7397 État
+ 7392. Collectivités et établissements publics
+ 7398 Autres subventions inscrites au compte de résultat
+
+ 14. PROVISIONS RÉGLEMENTEES (compte ajoute)
+ 747 Fonds de trésorerie Iréserve de trésorenel
+ 742 Relatives aux immoblisations
+ 7423 Proviston pour reconstitution des immoblisations grevées de drott
+ 7424 Provision pour investissement lparticipation des salariés)
+ 143. Relatives aux stocks.
+ 144. Relatives aux autres elements d'actif
+ 145. Amortissements derogatoires.
+ 146. Plus-values reinvesties.
+ 748. Autres fonds réglementés
+ 7486 Fonds des i{lvestissements dtfférences sur réalisatio{l d'éléme{lts d'actif
+ 7487 Fo{lds des i{lvestisseme{lts : excédents provenant de l'exploitatio{l des régimes particuliers
+
+ 15. PROVISIONS POUR RISQUES ET CHARGES
+ 1511. Provisions pour litiges.
+ 1514 Provisions pour amendes et penalites
+ 1515 Provisions pour pertes de change
+ 7572 Pmvisto{ls pour grosses réparations - Bie{ls e{l propriété
+ 7573 Provisiom pour grosses réparatio{l - Biens en commodat
+ 7 575 Provtsions pour grosses réparatio{ls - Bie{ls e{l location
+ 158. Autres provisions pour charges
+ 16. EMPRUNTS ET DETTES ASSIMILÉES
+ 165. DepOts et cautionnements reçus.
+ 1673. Préts et avances.
+ 169. Charges financieres à amortir (primes de remboursement des obligations).
+
+ 18. COMPTES DE LIAISON DES ÉTABLISSEMENTS
+ 181. Apports entre etablissements et siege social.
+ 186. Biens et prestations de services reçus (charges).
+ 187 Biens et prestations de services fournis (produits).
+
+ 20. IMMOBILISATIONS INCORPORELLES
+ 203. Frais de recherche et de developpement.
+
+ 21. IMMOBILISATIONS CORPORELLES
+ 2111 Terrains nus.
+ 2112 Terrains amenag&.
+ 2115 Terrains bâtis
+ 2131. Bâtiments.
+ 2135 Installations generales, agencements. amenagements des constructions
+ 2138. Ouvrages d'infrastructure.
+ 2141. Bâtiments.

@@ -1,0 +1,347 @@
+
+275 Collections - rnu'Zres d'art
+2181. Installations générales, agencements. aménagements divers.
+2182 Materiel de transport.
+2183 Materiel de bureau et materiel InformatlqLJe
+2184 Mobilier
+2185 Cheptel
+2186. Emballages reCupérables
+
+22. IMMOBILISATIONS GREVÉES DE DROITS (compte ajoutel
+228 Immobihsations gt.e'Zees de dt.otts
+2287 lmmobih~ations commodataires
+2282 Immobih~ations mises à disposttton dans le cadt.e d'appo{Ts en jouIssance
+229 Dt.oits des proprietaires.
+22gi Droits des proprietaires prêteuts
+2292. Droits des proprietaires apporteuts
+26. PARTICIPATIONS ET CRÉANCES RATTACHÉES À DES PARTICIPATIONS
+267 Créances rattachées a des participations
+268. Créances rattachées à des sociétés en participatIon.
+269. Versements restant a effectuer sur titres de participation non liberes.
+
+27. AUTRES IMMOBILISATIONS FINANCIÈRES
+27i3 Ttres souscrits dans le cadre de l'effort de col,structton
+2743 7 Prêts au petsonnel
+27434 Prêts au personnel dans le cadre de 1°~n'Zesttssement logement
+2747 Prêts aux organtsmes dans le cadre de l't/i'Zestissement logement du personnel
+2761. Créances diverses.
+2768. Intérets courus non échus.
+279. Versements restant a effectuer sur titres immobilisés non libérés.
+
+28. AMORTISSEMENTS DES IMMOBILISATIONS
+2803. Frais de recherche et de développement.
+2805. Concessions, brevets.
+2806. Droit au bail.
+2817 Animaux de rapport.
+282 Amortissements des Immobtlisattol,s gre'Zees de dmit
+2828 i Des immobilisations commodataires
+2828 2 Des immobilisations apportees
+288 Amortissements abonnes en attente
+
+29. PROVISIONS POUR DÉPRÉCIATION DES IMMOBILISATIONS
+292 Pro'Zisions pour depreoation des tmmobtlisatlons commodatatres
+293 Pro'Zisions pour depreciatton des immobilisarions en couts
+
+31. STOCKS DE MATIÈRES PREMIÈRES
+3100. Matieres premieres.
+
+32. STOCKS D'APPROVISIONNEMENTS
+32iO Energie - Flutdes
+3220 Produits pharmaceutiques
+3230 Alimentation
+3250 Matieres. fournitures petits matet.tels pour fol,cttol,S logtstiques
+3260 MFPM pour fonctions techniques
+3270 MFPM pour fonctions economiques
+3280 MFPM pour fonctions specifiques
+3290 MFPM des autres fol,ctions
+
+41. USAGERS Iredevablesl ET COMPTES RATTACHÉS 6205
+472 Ot.gal,tsmes lsuitel
+4 76 i ;-lsaget.s
+4 7ô2 Ot.gat']smes
+42. PERSONNEL ET COMPTES RATTACHÉS
+422 e~ ~uwes soc]ales
+423 AL.rres opet.a~tD9S ]~ee5 a }a gesz/ot' du pet.scl,"e~
+424 ~O"ot.att.es n'ealCaux a t.epat.rlt.
+426 Personnel - Dep~ts
+4288. Compléments d'appointements à payer
+43. SÉCURITÉ SOCIALE ET AUTRES ORGANISMES SOCIAUX
+431. ... URSSAF et organismes assimilés.
+4388. Part patronale sur complément d' appointements a payer
+44. ÉTATS ET AUTRES COLLECTIVITÉS PUBLIQUES
+4418 Subventions d'équilibre.
+443 Operations particulières avec l'Etat. les collectivités publiques et les organismes internati~
+naux
+4472 lmpOt sur les societes des personnes morales a but non lucratif
+4483.3. Formation continue à payer ou a recevoir
+4483 4. Effort de construction a payer
+4488 1 Part patronale sur primes a repartIr
+4488 2 Part patronale sur congés a payer
+46. DÉBITEURS DIVERS ET CRÉDITEURS DIVERS
+462. Creances sur cessions d'immobilisations.
+453 Fonds en depOt
+47. COMPTES TRANSITOIRES OU D'ATTENTE
+475. Comptes d'attente.
+478. Autres comptes transitoires.
+48. COMPTES DE RÉGULARISATION
+487 7 Charges differees emprunt de tresorerie à amortir
+4875 FraIs financiers à ~taler
+48i 7 Deficits a etaler
+4867 Deficits a recycler
+4856 Charges di'Zerses constatees d'a'Zance
+487 i éxcedent a recycler
+4877 Abonnements reçus a servir
+4878 Sub'Zentions reçues a affecter / donr taxe d'apprenttssagel
+488 Compte de répartition périodique des charges et des produits.
+4886. Charges financières abonnees.
+4887 ProduIts abonnes
+49. PROVISIONS POUR DÉPRÉCIATION DES COMPTES DE TIERS
+495 Provisions pour dépréciation des comptes d'opérations faites en commun.
+4958. Opérations en commun et en GIE.
+4962. Creances sur cessions d'immobilisations.
+4967 Autres comptes deblteurs
+50. VALEURS MOBILIÈRES DE PLACEMENT
+504 Autres titres conférants un droit de propriété
+509 Versements restant a effectuer sur valeurs mobilières de placement non libérées.
+51. BANQUES, ÉTABLISSEMENTS FINANCIERS ET ASSIMILÉS
+
+
+515. Agents de change (sociétés de bourses).
+57 2.8 Llwer d e~argr7e.
+
+53. CAISSE
+5311. Caisse en francs.
+5314 Caisse en devIses.
+532. Caisses auxiliaires.
+
+58. VIREMENTS INTERNES
+580. Virements internes entre comptes de trésorerie ou journaux.
+5800 Comptes de trésorerie entre eux
+5801 Entre caisse et joumal des recettes ventIlées
+5802 Entre banque et journal des recettes ventilées.
+5804. Entre CCP et joumal des recettes ventilées
+
+59. PROVISIONS POUR DEPRÉCIATION DES COMPTES FINANCIERS
+5903. Actions.
+5904 Autres titres conférant un droit de propriété
+5906 Obligations.
+5908. Autres valeurs mobiliéres et créances assimIlées.
+
+60. ACHATS
+6a27 Er7ergle - flutdes
+6a22 MFPM ~our la ~harmacie (1}.
+6D23 MFPM ~our l'alimer7tatior7
+6D24 MFPM ~our
+6D25 MFPM ~our i~s for7ctior75 logisttques (21
+6D26 MFPM ~Our les for7ctior75 techr7iques (~}
+6D27 MFPM pour les for7ctior75 economiques (2}
+6a28 MFPM pour les for7ctior75 specifiques (27
+6a29 MFPM pour la for7ctior7 commur71catior7 (2}
+6D31 De mattere premiere
+6a32 De MFPM
+6a37 De marchar7dises.
+6D41 PS pour l'er7ergie (3}
+6a45 PS pour les for7ctior75 logistiques (2}
+6D46 PS ~our les for7cttor75 techr7iques (2}
+6D47 PS ~our les for7ctior75 ecor7omiques (2}.
+6D48 PS pour les for7ctior75 s~ecifiques (2}
+6D49 PS pour la for7ctior7 de commUr71catior7 (2}
+6D61 Er7ergie - fluides
+6D62 MFPM pour la pharmacie
+6D63. MFPM pour l'alimer7tatior7.
+6a64 MFPM pour
+6a65 MFPM pour i~s for7ctior75 logistiques (2}
+6D66 MFPM pour les fmctior75 techr7iques (2}
+6D67 MFPM pour les for7ctior75 ecor7omiques (21
+6a68 MFPM pour les for7ctior75 specifiques prir70pales (2}
+6D69 MFPM pour la for7cttm commur7icattor7 (2}
+609. Rabais. remises, ristournes sur achats.
+61. SERVICES EXTÉRIEURS
+6122. Crédit-bail immobilier.
+6125 Crédit-bail mobilier.
+6163. Risque de transport.
+6164 Risque d'exploitation.
+6165 Insolvabilité usagers.
+8188 Resnonsahilit~ civil~ t-l~s n~rsonnes
+
+6J87 CO{-COL!-S dl'ers
+6182 DocumentatIon technIque
+62. AUTRES SERVICES EXTÉRIEURS
+627 7 Persor7r7el lr7renmalre (coyar7ti
+6274 Perso~~el de~ache ou ~rere a l'er7~re~nse (payar7t}
+6276 Persor7r7el m's a dts~OSl¥lOr7 (gratUlrl
+6228. Divers.
+6232. Echantillons.
+6234 Cadeaux
+6235 Primes
+6236 Brochures, dépliants .
+6237Publications
+6238 DIvers (pourboIres. dons courants i
+6241 Transports de biens.
+6242 Transports d'usagers
+6244 Transports administratIfs
+6247 Transports du personnel (collectIfs et Individuels)
+6252 FralS de demer7agemer7t
+6258 Frats de fOr7ctlOr7r7emer7t des tr7S~ar7Ces associati'es.
+6261. Liaisons informatiques.
+6263 AffranchIssements
+6265 Téléphone
+6268 Autres frais postaux et télécom
+6271. Frais sur titres lachat. vente, garde).
+6272 CommIssIon sur emprunts
+6276 Locatlan de coffres
+6278 Autres fraIS et commissions sur prestations de services
+63. IMPÔTS, TAXES ET VERSEMENTS ASSIMILÉS
+6318 Autres impOts sur rémunérations (administration des impOts).
+6332 Allocation logement.
+6338 Autres ImpOts sur rémunérations tautres organIsmes).
+6372. Taxes perçues par les organismes publics internationaux.
+6374 ImpOts et taxes exigibles a l'étranger
+6375 SACEM
+6379 Autres impOts (autres organismes).
+638 Charges flscales sur remur7eratior75 a COyer
+6381 Charges fiscales sur ~rimes a payer
+6382 Charges fiscales sur COr7ges a COyer
+639 Charges fiscales reparties
+6398 Charges fiscales reparties
+64. CHARGES DE PERSONNEL
+64 7 Appoir7temer7ts du persor7r7el
+6415 Appointements fonctions logistIques (3)
+6476 Ap~oir7temer7ts for7ctior75 techr7iques {3}
+6477 Appoir7temer7ts for7ctior75 ecmomiques (3}
+6478 AppOlr7temer7ts for7cttor75 s~ecifiques (3}
+6419 Appoir7temer7ts.. autres for7ctior75 (3}
+643 Remur7eratims di'erses.
+6431 Prtmes de service a reCOrtir (brut}
+6432 COr7ges a payer (brLlt}
+6435 lr7demr7ttes de mise au travail
+6436 lr7demr7ites de depart er7 retraite et licer70emer7t
+6471 Prestatior7s directes
+~~7~ n"I'I,""~ '11¥ f."m~I"~ f.I't1l/"I~"~ ~1 f.I~ ~"f.I'ril"
+
+
+ ~ ~~~ 7B Staaes ae 'o!.mat'bn et ae oerfect O""~ ~...~ ~~,
+ ~ ~ ~8' !r,de~n'tes du pel.SCnne' de c~/re
+ ~ ~~B2 inaem,r,/tes au peI.SOnr,e' co'gregar Stê
+ 5~8ô t/alor'satlon aes cor,tt-'but'ons VO'cnra res ê'- rr ë.a
+ 54BB Charges s~c a[es sur rer-Une!.at ~rs ë ~ë,E.
+ 549 Comptes d'ord!.e des cr7at-ges ae pet-sorre
+ ~ ~497 Rernboul.Sernenr oar [a secunte soc'a e ~2s "~ern" tes IOU!.në êrêS-pêl.S01'n2i rnaiâo2 ë
+ repartIr
+ ô~92 Remboursement des mpolrterner7ts 2T c,.)arges ae f~rrnât'otl conr'nu2
+ ô~99 Repartttton des charges socIales
+
+ 65. AUTRES CHARGES DE GESTION COURANTE
+ 655. Quotes..arts de frais sur operations faites en commun.
+ 655 t Fournttures de servIces aux activltes annexes
+ 655ô Ouote-part et frais de services geres en commun
+ ô558 Autres
+ 55ô Parttcipattons a caractère socIal
+ ôSô t Boul.Ses accordees aux usâgel.S.
+ ô562 Reductions accordees aux usagers
+ 6577 Subventions a l'assocIation partiopanr a lâ vIe socale des hospiralises et heberges
+ ô573 Subver7tion tr7terne de fonctionr7ernent
+ ô578 Autres subver7tior7s
+ ôSB 7 Frais de culte et d'ir7hurnattor7.
+ 6582 pécule vel.Sé aux usâgers
+ ô586 For7ds de solidarité usagers
+ 6587 Forfait hôtelierlournalier vel.Sé
+ ô588 Autres charges divel.Ses de gestior7
+ 66. CHARGES FINANCIÈRES
+ ôô 74 Frais fir7ar7ciel.S pour ernprur7ts de trésorerie
+ 6615 Interéts des comptes courants et des dèpOts credlteurs
+ 6616 Interêts bancaires et sur operations de financernent (escompte)
+ 668. Autres charges financières.
+
+ 67. CHARGES EXCEPTIONNELLES
+ 6711. penalites sur marches (et dedits payes sur achats et ventes)
+ 6715 Subventions accordees
+ 6758. Autres élements d'actif.
+
+ 68. DOTATIONS AUX AMORTISSEMENTS ET AUX PROVISIONS
+ 6861. Dotations aux amortissements des primes de remboursement des obligations.
+ 6865 Dotations aux provisions pour risques et charges financiers
+ 6868 Autres dotations.
+ 6872. Dotations aux provisions réglementées (immobilisations).
+ 6873 Dotations aux provisions reglementees (stocks)
+ 6874 Dotations aux autres provisions reglernentees.
+ 6875. Dotations aux risques et charges exceptionnels
+ 68B Dotarions abonr7ees aux arnortisserner7ts
+
+69. DIVERS
+ 695. ImpOts sur les bénéficies.
+ 695 t Impôts sur les bénefices des acttvites lucratIves
+ ô952 Impôts sur les sociétes des personnes rnorâles non lucrâtives (trnpôts sur les revenus)
+ 69B Charges transférées en pmver7ance d'autres gestIons
+ ô9BS Fonctions loglsttques
+
+ 7O. PRODUITS DES PRESTATIONS ASSURÉES PAR L'ÉTABLISSEMENT (changement 6205
+ d'intitulé) (suite)
+ ~- ~, GêsS ~~5 ~~ ~e'rê5 de D!.~DU/tS
+ ~0~ GêSS ~~5 o~ vênrês de rrëvaux
+ 7O6 Produits des prestations de services rendus
+ 70ô' -
+ ~052 ~ SU~a/v's/ons speciflques seion la brânche d'activtte ex2rcee
+ ~OôB j
+ 7081 Produits des services exploites dans l'intérét du personnel
+ 70B2 Prestations annexes : usagers et accompagnants
+ 70B3 CessIons et presrations diverses aux tiers
+ 72. PRODUCTION IMMOBILISÉE
+ 7210. Immobilisations incorporelles.
+ 7220 Immobilisations corporelles.
+
+ 74. SU6VENTlDNS DE FONCTIONNEMENT (changement d'intitulè)
+ 74t Etar
+ 74t3 Subvention interne de fonct/onnemenr des CAT - CHRS
+ 742 Regions
+ 743 Departerner7ts
+ 744 Comrnur7es
+ 745 Orgar7isrnes sociaux (CNAF. .j
+ 746 Etabltsserner7ts publics
+ 747 Er7treprises et orgar7isrnes privés.. taxes parafiscales.
+ 7478 Taxe d'apprer7tissage affectée au for7ctior7r7ernent
+ 748 Autres
+
+ 75. AUTRES PRODUITS DE GESTION COURANTE
+ 754 Collectes - Dor7s
+ 754 t Collectes aurorlsées
+ 7545 Dons rnar7uels (er7 espècesj
+ 755 Remboursements de frais
+ 7550 Remboursement des frats de servtces geres er7 cornrnur7
+ 7557 Rernbourserner7t de fraIs par les budgets ar7r7exes
+ 7552
+ 755ô PartIcipation âUX frâis de services gérés er7 commun (quotes-pârts reçues)
+ 7558 Autres rembourserner7ts de frais
+ 75BS COr7trlbutior7s volor7tâires reçues affectees au fonctior7r7erner7t courar7t
+ 75BB Autres produits divers de gesttor7 COUrâr7te.
+
+ 76. PRODUITS FINANCIERS
+ 763 Revenus des autres créances.
+
+ 77. PRODUITS EXCEPTIONNELS
+ 7713 Libèralités reçues.
+ 7714 Rentrees sur creances amorties
+ 7715 Subventions de fonctIonnement reçues (d'equIlibre)
+ 77 t6 Contributions volontâlres reçues
+ 7717 Degrèvement d'lmpOts lautres qu'impOts sur les benefices)
+ 7718 Autres produits exceptionnels sur operations de gestion
+ 774 ProduIts exceptionnels des collectes
+ 7758. Autres élèments d'actif (sauf stocks et valeurs mobilières de placement).
+ 77& Produits exceotionnels des cottsatiotis
+
+
+7874 Reprises sur fonds réglementés
+7875 Reprises sur provIsions pour risques et charges exceptionnels
+79. TRANSFERTS DE CHARGES
+79 ~ ~ Fabricatton de denrées et de fournItures
+79~2 Tra~aux d'entretten non imputables a l'exerctce
+79 ~ 3 Productton ~e formatIon conttnue tnterne
+7972, Tra~aux d'entretien r7on tmputables a 1 exerctce
+798 Transferts de charges a d'autres gest/Or75
+7985 De fonctIons loglsttques
+7986 De for7ctior7s teChr7/çUeS
+7987 De foncttons écor7omtques
+7988 De fonctIons spéctftques
+7989, De fonctions autres,
+799 Comptes d'ordre
+7999 Reprise des produits

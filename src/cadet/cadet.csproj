@@ -1,0 +1,935 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{331F3AAD-B12B-4067-95C7-607F80B77C3F}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>CADET</RootNamespace>
+    <AssemblyName>CADET</AssemblyName>
+    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ManifestCertificateThumbprint>0A8D92622C107B80E64045F7B4BD766EC2198B9D</ManifestCertificateThumbprint>
+    <ManifestKeyFile>Cadet_TemporaryKey.pfx</ManifestKeyFile>
+    <GenerateManifests>true</GenerateManifests>
+    <SignManifests>true</SignManifests>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <StartupObject>CADET.Program</StartupObject>
+    <PublishUrl>C:\Users\Master 2 CCI\Documents\Visual Studio 2008\Projects\CADET\cadet\Distribution\Prototype\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <AutorunEnabled>true</AutorunEnabled>
+    <ApplicationRevision>2</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <ApplicationIcon>redo_round32_h.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <DocumentationFile>bin\Debug\CADET.XML</DocumentationFile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Classes\ClassConnexionBD.cs" />
+    <Compile Include="Classes\ClassFonctions.cs" />
+    <Compile Include="Classes\ClassGlobale.cs" />
+    <Compile Include="Classes\ControleurPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Classes\InterfaceCadet.cs" />
+    <Compile Include="Langages\rsCADET.cs" />
+    <Compile Include="Composants\ComponentSousTitre.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Composants\ComponentSousTitre.Designer.cs">
+      <DependentUpon>ComponentSousTitre.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Composants\ComponentTitre.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Composants\ComponentTitre.Designer.cs">
+      <DependentUpon>ComponentTitre.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Composants\UserControlCADETDialogue.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Composants\UserControlCADETDialogue.Designer.cs">
+      <DependentUpon>UserControlCADETDialogue.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formulaires\Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formulaires\Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formulaires\Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formulaires\Form2.Designer.cs">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formulaires\FormAbonnement.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formulaires\FormAbonnement.Designer.cs">
+      <DependentUpon>FormAbonnement.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formulaires\FormActivites.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formulaires\FormAffichage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formulaires\FormAffichage.Designer.cs">
+      <DependentUpon>FormAffichage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formulaires\FormAgenda.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formulaires\FormAgenda.Designer.cs">
+      <DependentUpon>FormAgenda.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formulaires\FormAideAide.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formulaires\FormAideAide.Designer.cs">
+      <DependentUpon>FormAideAide.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formulaires\FormApropos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formulaires\FormApropos.Designer.cs">
+      <DependentUpon>FormApropos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formulaires\FormArreteMensuel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formulaires\FormArreteMensuel.Designer.cs">
+      <DependentUpon>FormArreteMensuel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formulaires\FormAssitanceTechnique.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formulaires\FormAssitanceTechnique.Designer.cs">
+      <DependentUpon>FormAssitanceTechnique.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formulaires\FormAstuces.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formulaires\FormAstuces.Designer.cs">
+      <DependentUpon>FormAstuces.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formulaires\FormBalance.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formulaires\FormBalance.Designer.cs">
+      <DependentUpon>FormBalance.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formulaires\FormBalanceAnnuelle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formulaires\FormBalanceAnnuelle.Designer.cs">
+      <DependentUpon>FormBalanceAnnuelle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formulaires\FormBilan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formulaires\FormBilan.Designer.cs">
+      <DependentUpon>FormBilan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formulaires\FormBudget.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formulaires\FormBudget.Designer.cs">
+      <DependentUpon>FormBudget.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formulaires\FormCalculatrice.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formulaires\FormCalculatrice.Designer.cs">
+      <DependentUpon>FormCalculatrice.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formulaires\FormCentraliseur.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formulaires\FormCentraliseur.Designer.cs">
+      <DependentUpon>FormCentraliseur.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formulaires\FormClotureAnnuelle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formulaires\FormClotureAnnuelle.Designer.cs">
+      <DependentUpon>FormClotureAnnuelle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formulaires\FormCompteResultat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formulaires\FormCompteResultat.Designer.cs">
+      <DependentUpon>FormCompteResultat.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formulaires\FormContenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formulaires\FormContenu.Designer.cs">
+      <DependentUpon>FormContenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formulaires\FormControleBudgetaires.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formulaires\FormControleBudgetaires.Designer.cs">
+      <DependentUpon>FormControleBudgetaires.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formulaires\FormCreationManuelle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formulaires\FormCreationManuelle.Designer.cs">
+      <DependentUpon>FormCreationManuelle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formulaires\FormDelettrage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formulaires\FormDelettrage.Designer.cs">
+      <DependentUpon>FormDelettrage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formulaires\FormDepointage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formulaires\FormDepointage.Designer.cs">
+      <DependentUpon>FormDepointage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formulaires\FormDevise.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formulaires\FormDevise.Designer.cs">
+      <DependentUpon>FormDevise.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formulaires\FormDevises.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formulaires\FormDevises.Designer.cs">
+      <DependentUpon>FormDevises.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formulaires\FormDossier.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formulaires\FormDossier.Designer.cs">
+      <DependentUpon>FormDossier.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formulaires\FormEditeFichier.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formulaires\FormEditeFichier.Designer.cs">
+      <DependentUpon>FormEditeFichier.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formulaires\FormEditionJournaux.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formulaires\FormEditionJournaux.Designer.cs">
+      <DependentUpon>FormEditionJournaux.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formulaires\FormElementsPatrimoine.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formulaires\FormElementsPatrimoine.Designer.cs">
+      <DependentUpon>FormElementsPatrimoine.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formulaires\FormEnregistrement.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formulaires\FormEnregistrement.Designer.cs">
+      <DependentUpon>FormEnregistrement.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formulaires\FormExplorateur.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formulaires\FormExplorateur.Designer.cs">
+      <DependentUpon>FormExplorateur.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formulaires\FormExporteEcritures.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formulaires\FormExporteEcritures.Designer.cs">
+      <DependentUpon>FormExporteEcritures.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formulaires\FormGestionTVA.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formulaires\FormGestionTVA.Designer.cs">
+      <DependentUpon>FormGestionTVA.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formulaires\FormGrandesClasses.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formulaires\FormGrandesClasses.Designer.cs">
+      <DependentUpon>FormGrandesClasses.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formulaires\FormGrandLivre.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formulaires\FormGrandLivre.Designer.cs">
+      <DependentUpon>FormGrandLivre.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formulaires\FormImportation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formulaires\FormImportation.Designer.cs">
+      <DependentUpon>FormImportation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formulaires\FormImportations.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formulaires\FormImportations.Designer.cs">
+      <DependentUpon>FormImportations.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formulaires\FormImprimante.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formulaires\FormImprimante.Designer.cs">
+      <DependentUpon>FormImprimante.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formulaires\FormInformations.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formulaires\FormInformations.Designer.cs">
+      <DependentUpon>FormInformations.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formulaires\FormInventairePatrimoine.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formulaires\FormInventairePatrimoine.Designer.cs">
+      <DependentUpon>FormInventairePatrimoine.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formulaires\FormJournaux.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formulaires\FormJournaux.Designer.cs">
+      <DependentUpon>FormJournaux.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formulaires\FormLettrage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formulaires\FormLettrage.Designer.cs">
+      <DependentUpon>FormLettrage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formulaires\FormModesReglement.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formulaires\FormModesReglement.Designer.cs">
+      <DependentUpon>FormModesReglement.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formulaires\FormMouvementsComptes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formulaires\FormMouvementsComptes.Designer.cs">
+      <DependentUpon>FormMouvementsComptes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formulaires\FormNouveau.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formulaires\FormNouveau.Designer.cs">
+      <DependentUpon>FormNouveau.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formulaires\FormOutilsSupplementaires.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formulaires\FormOutilsSupplementaires.Designer.cs">
+      <DependentUpon>FormOutilsSupplementaires.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formulaires\FormOuvrir.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formulaires\FormOuvrir.Designer.cs">
+      <DependentUpon>FormOuvrir.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formulaires\FormParametreDossier.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formulaires\FormParametreDossier.Designer.cs">
+      <DependentUpon>FormParametreDossier.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formulaires\FormPlanComptable.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formulaires\FormPlanComptable.Designer.cs">
+      <DependentUpon>FormPlanComptable.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formulaires\FormPremiersPas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formulaires\FormPremiersPas.Designer.cs">
+      <DependentUpon>FormPremiersPas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formulaires\FormPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formulaires\FormPrincipal.Designer.cs">
+      <DependentUpon>FormPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formulaires\FormQuitte.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formulaires\FormQuitte.Designer.cs">
+      <DependentUpon>FormQuitte.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formulaires\FormRapprochementBancaire.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formulaires\FormRapprochementBancaire.Designer.cs">
+      <DependentUpon>FormRapprochementBancaire.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formulaires\FormRecettesDepenses.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formulaires\FormRecettesDepenses.Designer.cs">
+      <DependentUpon>FormRecettesDepenses.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formulaires\FormRecherche.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formulaires\FormRecherche.Designer.cs">
+      <DependentUpon>FormRecherche.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formulaires\FormRegeneration.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formulaires\FormRegeneration.Designer.cs">
+      <DependentUpon>FormRegeneration.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formulaires\FormRestauration.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formulaires\FormRestauration.Designer.cs">
+      <DependentUpon>FormRestauration.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formulaires\FormSaisieEcritures.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formulaires\FormSaisieEcritures.Designer.cs">
+      <DependentUpon>FormSaisieEcritures.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formulaires\FormSauvegarde.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formulaires\FormSauvegarde.Designer.cs">
+      <DependentUpon>FormSauvegarde.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formulaires\FormSiteWeb.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formulaires\FormSiteWeb.Designer.cs">
+      <DependentUpon>FormSiteWeb.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formulaires\FormSon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formulaires\FormSon.Designer.cs">
+      <DependentUpon>FormSon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formulaires\FormTresorerie.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formulaires\FormTresorerie.Designer.cs">
+      <DependentUpon>FormTresorerie.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formulaires\FormUtilisateurs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formulaires\FormUtilisateurs.Designer.cs">
+      <DependentUpon>FormUtilisateurs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Langages\rsCADEThr.cs" />
+    <Compile Include="Langages\rsCADETjfp.cs" />
+    <Compile Include="Langages\rsCADETma.cs" />
+    <Compile Include="Langages\rsCADETmb.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Composants\ComponentSousTitre.resx">
+      <DependentUpon>ComponentSousTitre.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Composants\ComponentTitre.resx">
+      <DependentUpon>ComponentTitre.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Composants\UserControlCADETDialogue.resx">
+      <DependentUpon>UserControlCADETDialogue.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formulaires\Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formulaires\Form2.resx">
+      <DependentUpon>Form2.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formulaires\FormAbonnement.resx">
+      <DependentUpon>FormAbonnement.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formulaires\FormActivites.resx">
+      <DependentUpon>FormActivites.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formulaires\FormCreationManuelle.resx">
+      <DependentUpon>FormCreationManuelle.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formulaires\FormDevise.resx">
+      <DependentUpon>FormDevise.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formulaires\FormEditeFichier.resx">
+      <DependentUpon>FormEditeFichier.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formulaires\FormExporteEcritures.resx">
+      <DependentUpon>FormExporteEcritures.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formulaires\FormModesReglement.resx">
+      <DependentUpon>FormModesReglement.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formulaires\FormMouvementsComptes.resx">
+      <DependentUpon>FormMouvementsComptes.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formulaires\FormNouveau.resx">
+      <DependentUpon>FormNouveau.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formulaires\FormOuvrir.resx">
+      <DependentUpon>FormOuvrir.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formulaires\FormPrincipal.resx">
+      <DependentUpon>FormPrincipal.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Aide\cadet.chm" />
+    <None Include="Aide\cadet.chw" />
+    <None Include="Aide\cadet.h" />
+    <None Include="Aide\cadet.hhc" />
+    <None Include="Aide\cadet.hhk" />
+    <None Include="Aide\cadet.hhp" />
+    <None Include="Aide\cadet.log" />
+    <None Include="Aide\cadetH.inc" />
+    <None Include="Aide\compile_copie_aide_vers_projet.bat" />
+    <None Include="Aide\genere_aide.bat_ne_plus_lancer" />
+    <None Include="Aide\Log1.log" />
+    <None Include="Cadet_TemporaryKey.pfx" />
+    <None Include="Developpement\Cahier_des_charges_Projet_Cadet.doc" />
+    <None Include="Developpement\contacts.pdf" />
+    <None Include="Developpement\copies_ecran\_tfs\text-base\bouton.bmp.tfs-base" />
+    <None Include="Developpement\copies_ecran\_tfs\text-base\calculette.bmp.tfs-base" />
+    <None Include="Developpement\copies_ecran\_tfs\text-base\calend.bmp.tfs-base" />
+    <None Include="Developpement\copies_ecran\_tfs\text-base\copiesuncouleurs.jpg.tfs-base" />
+    <None Include="Developpement\copies_ecran\_tfs\text-base\dir_vs8_standard_x86.png.tfs-base" />
+    <None Include="Developpement\copies_ecran\_tfs\text-base\gep.jpg.tfs-base" />
+    <None Include="Developpement\copies_ecran\_tfs\text-base\GLOUPS.bmp.tfs-base" />
+    <None Include="Developpement\copies_ecran\_tfs\text-base\maide.bmp.tfs-base" />
+    <None Include="Developpement\copies_ecran\_tfs\text-base\mcdes.bmp.tfs-base" />
+    <None Include="Developpement\copies_ecran\_tfs\text-base\mcloture.bmp.tfs-base" />
+    <None Include="Developpement\copies_ecran\_tfs\text-base\mcreation.bmp.tfs-base" />
+    <None Include="Developpement\copies_ecran\_tfs\text-base\medition.bmp.tfs-base" />
+    <None Include="Developpement\copies_ecran\_tfs\text-base\memo.bmp.tfs-base" />
+    <None Include="Developpement\copies_ecran\_tfs\text-base\menreg.bmp.tfs-base" />
+    <None Include="Developpement\copies_ecran\_tfs\text-base\menvirt.bmp.tfs-base" />
+    <None Include="Developpement\copies_ecran\_tfs\text-base\mfichier.bmp.tfs-base" />
+    <None Include="Developpement\copies_ecran\_tfs\text-base\mmaj.bmp.tfs-base" />
+    <None Include="Developpement\copies_ecran\_tfs\text-base\mmodif.bmp.tfs-base" />
+    <None Include="Developpement\copies_ecran\_tfs\text-base\moptions.bmp.tfs-base" />
+    <None Include="Developpement\copies_ecran\_tfs\text-base\motdepasse.bmp.tfs-base" />
+    <None Include="Developpement\copies_ecran\_tfs\text-base\mpc.bmp.tfs-base" />
+    <None Include="Developpement\copies_ecran\_tfs\text-base\mrecupecr.BMP.tfs-base" />
+    <None Include="Developpement\copies_ecran\_tfs\text-base\ms913874.mbs_crmmappointintegration04%28en-us,MSDN.10%29.gif.tfs-base" />
+    <None Include="Developpement\copies_ecran\_tfs\text-base\msk00010.bmp.tfs-base" />
+    <None Include="Developpement\copies_ecran\_tfs\text-base\msk00010a.bmp.tfs-base" />
+    <None Include="Developpement\copies_ecran\_tfs\text-base\msk00020.bmp.tfs-base" />
+    <None Include="Developpement\copies_ecran\_tfs\text-base\msk00022.bmp.tfs-base" />
+    <None Include="Developpement\copies_ecran\_tfs\text-base\msk00075.bmp.tfs-base" />
+    <None Include="Developpement\copies_ecran\_tfs\text-base\msk00111.bmp.tfs-base" />
+    <None Include="Developpement\copies_ecran\_tfs\text-base\msk00112.bmp.tfs-base" />
+    <None Include="Developpement\copies_ecran\_tfs\text-base\msk00112a.bmp.tfs-base" />
+    <None Include="Developpement\copies_ecran\_tfs\text-base\msk00120.bmp.tfs-base" />
+    <None Include="Developpement\copies_ecran\_tfs\text-base\msk00135.bmp.tfs-base" />
+    <None Include="Developpement\copies_ecran\_tfs\text-base\msk00136.bmp.tfs-base" />
+    <None Include="Developpement\copies_ecran\_tfs\text-base\msk00236.bmp.tfs-base" />
+    <None Include="Developpement\copies_ecran\_tfs\text-base\msk00238.bmp.tfs-base" />
+    <None Include="Developpement\copies_ecran\_tfs\text-base\msk00240.bmp.tfs-base" />
+    <None Include="Developpement\copies_ecran\_tfs\text-base\msk00245.bmp.tfs-base" />
+    <None Include="Developpement\copies_ecran\_tfs\text-base\msk00251.bmp.tfs-base" />
+    <None Include="Developpement\copies_ecran\_tfs\text-base\msk00330.bmp.tfs-base" />
+    <None Include="Developpement\copies_ecran\_tfs\text-base\msk00340.bmp.tfs-base" />
+    <None Include="Developpement\copies_ecran\_tfs\text-base\msk00345.bmp.tfs-base" />
+    <None Include="Developpement\copies_ecran\_tfs\text-base\msk00345a.bmp.tfs-base" />
+    <None Include="Developpement\copies_ecran\_tfs\text-base\msk00445.bmp.tfs-base" />
+    <None Include="Developpement\copies_ecran\_tfs\text-base\msk00450.bmp.tfs-base" />
+    <None Include="Developpement\copies_ecran\_tfs\text-base\msk00520.bmp.tfs-base" />
+    <None Include="Developpement\copies_ecran\_tfs\text-base\msk00530.bmp.tfs-base" />
+    <None Include="Developpement\copies_ecran\_tfs\text-base\msk00543.bmp.tfs-base" />
+    <None Include="Developpement\copies_ecran\_tfs\text-base\msk00546.bmp.tfs-base" />
+    <None Include="Developpement\copies_ecran\_tfs\text-base\msk0102a.bmp.tfs-base" />
+    <None Include="Developpement\copies_ecran\_tfs\text-base\msk0102b.bmp.tfs-base" />
+    <None Include="Developpement\copies_ecran\_tfs\text-base\msk0102c.bmp.tfs-base" />
+    <None Include="Developpement\copies_ecran\_tfs\text-base\msk0102d.bmp.tfs-base" />
+    <None Include="Developpement\copies_ecran\_tfs\text-base\msk0102e.bmp.tfs-base" />
+    <None Include="Developpement\copies_ecran\_tfs\text-base\msk0102f.bmp.tfs-base" />
+    <None Include="Developpement\copies_ecran\_tfs\text-base\msk0103a.BMP.tfs-base" />
+    <None Include="Developpement\copies_ecran\_tfs\text-base\msk0130a.bmp.tfs-base" />
+    <None Include="Developpement\copies_ecran\_tfs\text-base\msk0130b.bmp.tfs-base" />
+    <None Include="Developpement\copies_ecran\_tfs\text-base\msk0130c.bmp.tfs-base" />
+    <None Include="Developpement\copies_ecran\_tfs\text-base\msk0130d.bmp.tfs-base" />
+    <None Include="Developpement\copies_ecran\_tfs\text-base\msk0130e.bmp.tfs-base" />
+    <None Include="Developpement\copies_ecran\_tfs\text-base\msk0130f.bmp.tfs-base" />
+    <None Include="Developpement\copies_ecran\_tfs\text-base\msk0130g.bmp.tfs-base" />
+    <None Include="Developpement\copies_ecran\_tfs\text-base\msk0130p.bmp.tfs-base" />
+    <None Include="Developpement\copies_ecran\_tfs\text-base\msk0135a.bmp.tfs-base" />
+    <None Include="Developpement\copies_ecran\_tfs\text-base\msk0230.bmp.tfs-base" />
+    <None Include="Developpement\copies_ecran\_tfs\text-base\msk0235.bmp.tfs-base" />
+    <None Include="Developpement\copies_ecran\_tfs\text-base\msk02450.bmp.tfs-base" />
+    <None Include="Developpement\copies_ecran\_tfs\text-base\msk0252.bmp.tfs-base" />
+    <None Include="Developpement\copies_ecran\_tfs\text-base\msk0428.bmp.tfs-base" />
+    <None Include="Developpement\copies_ecran\_tfs\text-base\msk0440a.bmp.tfs-base" />
+    <None Include="Developpement\copies_ecran\_tfs\text-base\msk0440b.bmp.tfs-base" />
+    <None Include="Developpement\copies_ecran\_tfs\text-base\msk0440c.bmp.tfs-base" />
+    <None Include="Developpement\copies_ecran\_tfs\text-base\msk0470d.bmp.tfs-base" />
+    <None Include="Developpement\copies_ecran\_tfs\text-base\msk0470h.bmp.tfs-base" />
+    <None Include="Developpement\copies_ecran\_tfs\text-base\msk0551a.bmp.tfs-base" />
+    <None Include="Developpement\copies_ecran\_tfs\text-base\msk0551b.bmp.tfs-base" />
+    <None Include="Developpement\copies_ecran\_tfs\text-base\msk0552a.bmp.tfs-base" />
+    <None Include="Developpement\copies_ecran\_tfs\text-base\msynth.bmp.tfs-base" />
+    <None Include="Developpement\copies_ecran\_tfs\text-base\old_tips.bmp.tfs-base" />
+    <None Include="Developpement\copies_ecran\_tfs\text-base\paramoutlook.jpg.tfs-base" />
+    <None Include="Developpement\copies_ecran\_tfs\text-base\raide.bmp.tfs-base" />
+    <None Include="Developpement\copies_ecran\_tfs\text-base\rapropos.bmp.tfs-base" />
+    <None Include="Developpement\copies_ecran\_tfs\text-base\rastuces.bmp.tfs-base" />
+    <None Include="Developpement\copies_ecran\_tfs\text-base\rbalance.bmp.tfs-base" />
+    <None Include="Developpement\copies_ecran\_tfs\text-base\rbrouillard.bmp.tfs-base" />
+    <None Include="Developpement\copies_ecran\_tfs\text-base\rcalculette.bmp.tfs-base" />
+    <None Include="Developpement\copies_ecran\_tfs\text-base\rcalendrier.bmp.tfs-base" />
+    <None Include="Developpement\copies_ecran\_tfs\text-base\rgrandlivre.bmp.tfs-base" />
+    <None Include="Developpement\copies_ecran\_tfs\text-base\rinformation.bmp.tfs-base" />
+    <None Include="Developpement\copies_ecran\_tfs\text-base\rjournaux.bmp.tfs-base" />
+    <None Include="Developpement\copies_ecran\_tfs\text-base\rlisini.bmp.tfs-base" />
+    <None Include="Developpement\copies_ecran\_tfs\text-base\rmaitre.bmp.tfs-base" />
+    <None Include="Developpement\copies_ecran\_tfs\text-base\rmemo.bmp.tfs-base" />
+    <None Include="Developpement\copies_ecran\_tfs\text-base\rminitel.bmp.tfs-base" />
+    <None Include="Developpement\copies_ecran\_tfs\text-base\routils.bmp.tfs-base" />
+    <None Include="Developpement\copies_ecran\_tfs\text-base\rouvrir.bmp.tfs-base" />
+    <None Include="Developpement\copies_ecran\_tfs\text-base\rquitter.bmp.tfs-base" />
+    <None Include="Developpement\copies_ecran\_tfs\text-base\rrecdep.bmp.tfs-base" />
+    <None Include="Developpement\copies_ecran\_tfs\text-base\rrecherche.bmp.tfs-base" />
+    <None Include="Developpement\copies_ecran\_tfs\text-base\rsaisie.bmp.tfs-base" />
+    <None Include="Developpement\copies_ecran\_tfs\text-base\rsauvegarder.bmp.tfs-base" />
+    <None Include="Developpement\copies_ecran\_tfs\text-base\rtreso.bmp.tfs-base" />
+    <None Include="Developpement\copies_ecran\_tfs\text-base\Sans titre.bmp.tfs-base" />
+    <None Include="Developpement\copies_ecran\_tfs\text-base\sel_dos.bmp.tfs-base" />
+    <None Include="Developpement\copies_ecran\_tfs\text-base\sel_pc.bmp.tfs-base" />
+    <None Include="Developpement\copies_ecran\_tfs\text-base\tips.bmp.tfs-base" />
+    <None Include="Developpement\copies_ecran\_tfs\text-base\ynPressP.BMP.tfs-base" />
+    <None Include="Developpement\description_dialogue.doc" />
+    <None Include="Developpement\description_report.doc" />
+    <None Include="Developpement\DossierEtudeDetaillee.doc" />
+    <None Include="Developpement\fichiers_txt\erreurs.log" />
+    <None Include="Developpement\fichiers_txt\_tfs\text-base\astuces_cvs.txt.tfs-base" />
+    <None Include="Developpement\fichiers_txt\_tfs\text-base\conseils_mdp.txt.tfs-base" />
+    <None Include="Developpement\fichiers_txt\_tfs\text-base\convertRealDouble.txt.tfs-base" />
+    <None Include="Developpement\fichiers_txt\_tfs\text-base\Devises.txt.tfs-base" />
+    <None Include="Developpement\fichiers_txt\_tfs\text-base\erreurs.log.tfs-base" />
+    <None Include="Developpement\fichiers_txt\_tfs\text-base\logcadet.txt.tfs-base" />
+    <None Include="Developpement\Journaldebord.doc" />
+    <None Include="Developpement\menusCadet.xlsx" />
+    <None Include="Developpement\ProjetCADET.mpp" />
+    <None Include="Developpement\Projet_Cadet-Details.doc" />
+    <None Include="Distribution\version.inc" />
+    <None Include="Langages\rs_composants_en.inc" />
+    <None Include="Langages\rs_composants_fr.inc" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Setup_Enseignant\auto_run.ini" />
+    <None Include="Setup_Utilisateur\autorun.ini" />
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Aide\CADET - Version 1.0.txt" />
+    <Content Include="Aide\contacts_et_informations.html" />
+    <Content Include="Aide\default.css" />
+    <Content Include="Aide\description_des_menus.html" />
+    <Content Include="Aide\DOc.txt" />
+    <Content Include="Aide\informations_de_base.html" />
+    <Content Include="Aide\menu_affichage.html" />
+    <Content Include="Aide\menu_aide.html" />
+    <Content Include="Aide\menu_edition.html" />
+    <Content Include="Aide\menu_fichier.html" />
+    <Content Include="Aide\menu_traitements.html" />
+    <Content Include="Aide\nouveautes.html" />
+    <Content Include="Aide\page_accueil.html" />
+    <Content Include="Aide\page_animation.html" />
+    <Content Include="Aide\page_a_propos.html" />
+    <Content Include="Aide\page_code.html" />
+    <Content Include="Aide\page_compilation.html" />
+    <Content Include="Aide\page_desassemblage.html" />
+    <Content Include="Aide\page_documentation.html" />
+    <Content Include="Aide\page_executable.html" />
+    <Content Include="Aide\page_expression.html" />
+    <Content Include="Aide\personnaliser_application.html" />
+    <Content Include="Aide\presentation_application.html" />
+    <Content Include="Aide\raccourcis_clavier.html" />
+    <Content Include="Aide\remerciements.html" />
+    <Content Include="Aide\todo.html" />
+    <Content Include="Aide\travaux_a_faire_aide.txt" />
+    <Content Include="Aide\urlmaster2cci.html" />
+    <Content Include="Aide\urlpackagermd.html" />
+    <Content Include="Aide\utiliser_application.html" />
+    <Content Include="Aide\__matrice.html" />
+    <Content Include="Developpement\classescadet.txt" />
+    <Content Include="Developpement\copies_ecran\bouton.bmp" />
+    <Content Include="Developpement\copies_ecran\calculette.bmp" />
+    <Content Include="Developpement\copies_ecran\calend.bmp" />
+    <Content Include="Developpement\copies_ecran\copiesuncouleurs.jpg" />
+    <Content Include="Developpement\copies_ecran\dir_vs8_standard_x86.png" />
+    <Content Include="Developpement\copies_ecran\gep.jpg" />
+    <Content Include="Developpement\copies_ecran\GLOUPS.bmp" />
+    <Content Include="Developpement\copies_ecran\maide.bmp" />
+    <Content Include="Developpement\copies_ecran\mcdes.bmp" />
+    <Content Include="Developpement\copies_ecran\mcloture.bmp" />
+    <Content Include="Developpement\copies_ecran\mcreation.bmp" />
+    <Content Include="Developpement\copies_ecran\medition.bmp" />
+    <Content Include="Developpement\copies_ecran\memo.bmp" />
+    <Content Include="Developpement\copies_ecran\menreg.bmp" />
+    <Content Include="Developpement\copies_ecran\menvirt.bmp" />
+    <Content Include="Developpement\copies_ecran\mfichier.bmp" />
+    <Content Include="Developpement\copies_ecran\mmaj.bmp" />
+    <Content Include="Developpement\copies_ecran\mmodif.bmp" />
+    <Content Include="Developpement\copies_ecran\moptions.bmp" />
+    <Content Include="Developpement\copies_ecran\motdepasse.bmp" />
+    <Content Include="Developpement\copies_ecran\mpc.bmp" />
+    <Content Include="Developpement\copies_ecran\mrecupecr.BMP" />
+    <Content Include="Developpement\copies_ecran\ms913874.mbs_crmmappointintegration04%28en-us,MSDN.10%29.gif" />
+    <Content Include="Developpement\copies_ecran\msk00010.bmp" />
+    <Content Include="Developpement\copies_ecran\msk00010a.bmp" />
+    <Content Include="Developpement\copies_ecran\msk00020.bmp" />
+    <Content Include="Developpement\copies_ecran\msk00022.bmp" />
+    <Content Include="Developpement\copies_ecran\msk00075.bmp" />
+    <Content Include="Developpement\copies_ecran\msk00111.bmp" />
+    <Content Include="Developpement\copies_ecran\msk00112.bmp" />
+    <Content Include="Developpement\copies_ecran\msk00112a.bmp" />
+    <Content Include="Developpement\copies_ecran\msk00120.bmp" />
+    <Content Include="Developpement\copies_ecran\msk00135.bmp" />
+    <Content Include="Developpement\copies_ecran\msk00136.bmp" />
+    <Content Include="Developpement\copies_ecran\msk00236.bmp" />
+    <Content Include="Developpement\copies_ecran\msk00238.bmp" />
+    <Content Include="Developpement\copies_ecran\msk00240.bmp" />
+    <Content Include="Developpement\copies_ecran\msk00245.bmp" />
+    <Content Include="Developpement\copies_ecran\msk00251.bmp" />
+    <Content Include="Developpement\copies_ecran\msk00330.bmp" />
+    <Content Include="Developpement\copies_ecran\msk00340.bmp" />
+    <Content Include="Developpement\copies_ecran\msk00345.bmp" />
+    <Content Include="Developpement\copies_ecran\msk00345a.bmp" />
+    <Content Include="Developpement\copies_ecran\msk00445.bmp" />
+    <Content Include="Developpement\copies_ecran\msk00450.bmp" />
+    <Content Include="Developpement\copies_ecran\msk00520.bmp" />
+    <Content Include="Developpement\copies_ecran\msk00530.bmp" />
+    <Content Include="Developpement\copies_ecran\msk00543.bmp" />
+    <Content Include="Developpement\copies_ecran\msk00546.bmp" />
+    <Content Include="Developpement\copies_ecran\msk0102a.bmp" />
+    <Content Include="Developpement\copies_ecran\msk0102b.bmp" />
+    <Content Include="Developpement\copies_ecran\msk0102c.bmp" />
+    <Content Include="Developpement\copies_ecran\msk0102d.bmp" />
+    <Content Include="Developpement\copies_ecran\msk0102e.bmp" />
+    <Content Include="Developpement\copies_ecran\msk0102f.bmp" />
+    <Content Include="Developpement\copies_ecran\msk0103a.BMP" />
+    <Content Include="Developpement\copies_ecran\msk0130a.bmp" />
+    <Content Include="Developpement\copies_ecran\msk0130b.bmp" />
+    <Content Include="Developpement\copies_ecran\msk0130c.bmp" />
+    <Content Include="Developpement\copies_ecran\msk0130d.bmp" />
+    <Content Include="Developpement\copies_ecran\msk0130e.bmp" />
+    <Content Include="Developpement\copies_ecran\msk0130f.bmp" />
+    <Content Include="Developpement\copies_ecran\msk0130g.bmp" />
+    <Content Include="Developpement\copies_ecran\msk0130p.bmp" />
+    <Content Include="Developpement\copies_ecran\msk0135a.bmp" />
+    <Content Include="Developpement\copies_ecran\msk0230.bmp" />
+    <Content Include="Developpement\copies_ecran\msk0235.bmp" />
+    <Content Include="Developpement\copies_ecran\msk02450.bmp" />
+    <Content Include="Developpement\copies_ecran\msk0252.bmp" />
+    <Content Include="Developpement\copies_ecran\msk0428.bmp" />
+    <Content Include="Developpement\copies_ecran\msk0440a.bmp" />
+    <Content Include="Developpement\copies_ecran\msk0440b.bmp" />
+    <Content Include="Developpement\copies_ecran\msk0440c.bmp" />
+    <Content Include="Developpement\copies_ecran\msk0470d.bmp" />
+    <Content Include="Developpement\copies_ecran\msk0470h.bmp" />
+    <Content Include="Developpement\copies_ecran\msk0551a.bmp" />
+    <Content Include="Developpement\copies_ecran\msk0551b.bmp" />
+    <Content Include="Developpement\copies_ecran\msk0552a.bmp" />
+    <Content Include="Developpement\copies_ecran\msynth.bmp" />
+    <Content Include="Developpement\copies_ecran\old_tips.bmp" />
+    <Content Include="Developpement\copies_ecran\paramoutlook.jpg" />
+    <Content Include="Developpement\copies_ecran\raide.bmp" />
+    <Content Include="Developpement\copies_ecran\rapropos.bmp" />
+    <Content Include="Developpement\copies_ecran\rastuces.bmp" />
+    <Content Include="Developpement\copies_ecran\rbalance.bmp" />
+    <Content Include="Developpement\copies_ecran\rbrouillard.bmp" />
+    <Content Include="Developpement\copies_ecran\rcalculette.bmp" />
+    <Content Include="Developpement\copies_ecran\rcalendrier.bmp" />
+    <Content Include="Developpement\copies_ecran\rgrandlivre.bmp" />
+    <Content Include="Developpement\copies_ecran\rinformation.bmp" />
+    <Content Include="Developpement\copies_ecran\rjournaux.bmp" />
+    <Content Include="Developpement\copies_ecran\rlisini.bmp" />
+    <Content Include="Developpement\copies_ecran\rmaitre.bmp" />
+    <Content Include="Developpement\copies_ecran\rmemo.bmp" />
+    <Content Include="Developpement\copies_ecran\rminitel.bmp" />
+    <Content Include="Developpement\copies_ecran\routils.bmp" />
+    <Content Include="Developpement\copies_ecran\rouvrir.bmp" />
+    <Content Include="Developpement\copies_ecran\rquitter.bmp" />
+    <Content Include="Developpement\copies_ecran\rrecdep.bmp" />
+    <Content Include="Developpement\copies_ecran\rrecherche.bmp" />
+    <Content Include="Developpement\copies_ecran\rsaisie.bmp" />
+    <Content Include="Developpement\copies_ecran\rsauvegarder.bmp" />
+    <Content Include="Developpement\copies_ecran\rtreso.bmp" />
+    <Content Include="Developpement\copies_ecran\Sans titre.bmp" />
+    <Content Include="Developpement\copies_ecran\sel_dos.bmp" />
+    <Content Include="Developpement\copies_ecran\sel_pc.bmp" />
+    <Content Include="Developpement\copies_ecran\tips.bmp" />
+    <Content Include="Developpement\copies_ecran\ynPressP.BMP" />
+    <Content Include="Developpement\copies_ecran\_tfs\entries.xml" />
+    <Content Include="Developpement\document_developpement_projet.gif" />
+    <Content Include="Developpement\fichiers_txt\astuces_cvs.txt" />
+    <Content Include="Developpement\fichiers_txt\conseils_mdp.txt" />
+    <Content Include="Developpement\fichiers_txt\convertRealDouble.txt" />
+    <Content Include="Developpement\fichiers_txt\Devises.txt" />
+    <Content Include="Developpement\fichiers_txt\logcadet.txt" />
+    <Content Include="Developpement\fichiers_txt\_tfs\entries.xml" />
+    <Content Include="Developpement\mcd\_tfs\entries.xml" />
+    <Content Include="Developpement\orga_groupe_developpeurs.gif" />
+    <Content Include="Developpement\pascoli.txt" />
+    <Content Include="Developpement\uml\_tfs\entries.xml" />
+    <Content Include="Distribution\Alpha\alpha.txt" />
+    <Content Include="Distribution\Avancee\Avancee.txt" />
+    <Content Include="Distribution\Stable\Stable.txt" />
+    <Content Include="Distribution\Beta\beta.txt" />
+    <Content Include="Distribution\Admissible\admissible.txt" />
+    <Content Include="Distribution\Prototype\prototype.txt" />
+    <None Include="Images\Calculator.bmp" />
+    <None Include="Images\clipboard_paste_lined.bmp" />
+    <None Include="Images\clipboard_paste_lined_48_h.bmp" />
+    <None Include="Images\copy_to_folder.bmp" />
+    <None Include="Images\copy_to_folder_48_h.bmp" />
+    <None Include="Images\favorites_48.bmp" />
+    <None Include="Images\filesaveas-48x48.png" />
+    <None Include="Images\folder_copy.bmp" />
+    <None Include="Images\folder_copy_to.bmp" />
+    <None Include="Images\folder_copy_to_48.bmp" />
+    <None Include="Images\folder_copy_to_48_h.bmp" />
+    <None Include="Images\folder_move.bmp" />
+    <None Include="Images\folder_move_to_48_h.bmp" />
+    <None Include="Images\Log%2520Off.bmp" />
+    <None Include="Images\paste_clipboard.bmp" />
+    <None Include="Images\paste_clipboard_48_h.bmp" />
+    <None Include="Images\recherche.bmp" />
+    <None Include="Images\save_48_h.bmp" />
+    <None Include="Images\save_green.bmp" />
+    <None Include="Images\save_green_48.bmp" />
+    <None Include="Images\save_h.bmp" />
+    <None Include="Images\up_folder.bmp" />
+    <None Include="Images\up_folder_48.bmp" />
+    <Content Include="Modeles\Modeles.txt" />
+    <Content Include="Modeles\pc-abrege.txt" />
+    <Content Include="Modeles\pc-oecca.txt" />
+    <Content Include="Modeles\pc-pccnva.txt" />
+    <None Include="app.config" />
+    <None Include="Classes\ClassDiagramFormModesReglement.cd" />
+    <None Include="Resources\degrade_bleu_ciel.gif" />
+    <Content Include="redo_round32_h.ico" />
+    <None Include="Resources\paste_clipboard_32.bmp" />
+    <Content Include="Setup_Enseignant\Cadet.iss" />
+    <Content Include="Setup_Enseignant\lisezmoi.txt" />
+    <Content Include="Setup_Scripts\13012008-Cadet.iss" />
+    <Content Include="Setup_Scripts\Cadet.iss" />
+    <Content Include="Setup_Scripts\Cadet_utilisateur.iss" />
+    <Content Include="Setup_Utilisateur\Cadet_utilisateur.iss" />
+    <Content Include="Setup_Utilisateur\lisezmoi.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.2.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 2.0 %28x86%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Aide\images\" />
+    <Folder Include="Developpement\mcd\_tfs\text-base\" />
+    <Folder Include="Developpement\uml\_tfs\text-base\" />
+    <Folder Include="Documentation\" />
+    <Folder Include="Outils\" />
+    <Folder Include="__Archives\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
