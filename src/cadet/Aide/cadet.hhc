@@ -1,0 +1,112 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML>
+<HEAD>
+<meta name="GENERATOR" content="Microsoft&reg; HTML Help Workshop 4.1">
+<!-- Sitemap 1.0 -->
+</HEAD><BODY>
+<OBJECT type="text/site properties">
+	<param name="Window Styles" value="0x800025">
+</OBJECT>
+<UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Pr&eacute;sentation d'ExaMAP">
+		<param name="Local" value="presentation_application.html">
+		<param name="ImageNumber" value="2">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Informations de base">
+		<param name="Local" value="informations_de_base.html">
+		</OBJECT>
+	<UL>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Nouveaut&eacute;s">
+			<param name="Local" value="nouveautes.html">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Remerciements">
+			<param name="Local" value="remerciements.html">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Contacts et informations">
+			<param name="Local" value="contacts_et_informations.html">
+			</OBJECT>
+	</UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Utiliser ExaMAP">
+		<param name="Local" value="utiliser_application.html">
+		</OBJECT>
+	<UL>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Page d'accueil">
+			<param name="Local" value="page_accueil.html">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Page Expression">
+			<param name="Local" value="page_expression.html">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Page Compilation">
+			<param name="Local" value="page_compilation.html">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Page Code">
+			<param name="Local" value="page_code.html">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Page Ex&eacute;cutable">
+			<param name="Local" value="page_executable.html">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Page D&eacute;sassemblage">
+			<param name="Local" value="page_desassemblage.html">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Page Animation">
+			<param name="Local" value="page_animation.html">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Page Documentation">
+			<param name="Local" value="page_documentation.html">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Page A Propos">
+			<param name="Local" value="page_a_propos.html">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Raccourcis Clavier">
+			<param name="Local" value="raccourcis_clavier.html">
+			</OBJECT>
+	</UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Description des menus">
+		<param name="Local" value="description_des_menus.html">
+		</OBJECT>
+	<UL>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Menu Fichier">
+			<param name="Local" value="menu_fichier.html">
+			</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Menu Edition">
+			<param name="Local" value="menu_edition.html">
+			</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Menu Traitements">
+			<param name="Local" value="menu_traitements.html">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Menu Affichage">
+			<param name="Local" value="menu_affichage.html">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Menu Aide">
+			<param name="Local" value="menu_aide.html">
+			</OBJECT>
+	</UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Personnaliser ExaMAP">
+		<param name="Local" value="personnaliser_application.html">
+		<param name="ImageNumber" value="2">
+		</OBJECT>
+</UL>
+</BODY></HTML>

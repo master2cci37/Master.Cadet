@@ -1,0 +1,38 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=iso-8859-1" />
+    <TITLE>Pr&eacute;sentation d'ExaMAP
+    </TITLE>
+    <link href="default.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>        
+  <H1>Pr&eacute;sentation d'ExaMAP</H1>
+  <H2>Machine à pile exécutant une expression arithmétique</H2>
+  <b>Bienvenue dans ExaMAP, la référence des traducteurs d'expressions arithmétiques parenthésées en langage de machine à pile élémentaire</b>
+    <p>  ExaMAP est un logiciel de traduction d'expressions  arithmétiques parenthésées simplifiées au niveau des données, en lignes d'instructions  de programme d'une machine à pile opérationnelle MAP.
+    </p>
+    <p>ExaMAP exécute les instructions MAP générées et calcule la  valeur d'une expression parenthésée (il effectue  des calculs semblables à ceux d'une calculatrice HP, mais ne traite pas les problèmes de débordement des calculs).
+    </p>
+    <h3>Spécifications générales du logiciel</h3>
+    <p>
+      <ul><li> ExaMAP reçoit en entrée une expression arithmétique parenthésée construite  correctement. Elle peut être saisie par l'utilisateur ou générée automatiquement.</li>      <li>ExaMAP traite cette expression arithmétique en la traduisant en une nouvelle expression arithmétique postfixée. Exemple :  (a+b)*3 vers ab+3*</li>      <li>ExaMAP compile l'expression arithmétique postfixée en la traduisant en une liste d'instructions de machine à pile (MAP) et en un fichier contenant le codage de chaque instruction de la liste.</li>
+      </ul>
+      <p>Ce dernier fichier représente un "exécutable" qu'ExaMAP peut exécuter indépendamment. ExaMAP à cette étape de son travail engendre deux fichiers : le fichier "codegenere.txt" et le fichier "codegenere.exec".  Les noms des fichiers peuvent être également choisis librement.
+      </p>
+      <p>Le fichier "codegenere.txt"  contient les résultats en mode texte de la traduction  postfixée, de la traduction en instructions sources machine MAP et enfin la table des  symboles (adresses implantées à partir de $1000) lorsque le symbole d'opérande est un   identificateur de type lettre.
+      </p>             
+      <h3>Spécifications opérationnelles du logiciel </h3>
+      <p>ExaMAP est un logiciel entièrement objet, basé sur des classes d'une machine à pile en mode console.
+      </p>
+      <p>C'est un logiciel avec une interface homme machine en programmation événementielle, avec le souci constant de fournir un maximum de souplesse et de services à l'utilisateur (vues des différents fichiers, de la pile d'exécution, informations  diverses, une exécution pas à pas animée en couleurs).
+      </p>
+      <p>Le manuel utilisateur du logiciel est accessible au format HTML dans l'interface ou par le biais du présent fichier compilé. L'ensemble complet en source avec tous les fichiers compilables en Turbo Delphi 2006, ainsi que l'exécutable prêt à être installé automatiquement peut être livré sur CD-ROM vérifié exempt de virus.
+      </p>
+      <div style="clear: both;">&nbsp;
+      </div>
+      <div id="pied">
+        <p>ExaMAP - Copyright &copy; 2007-2008 - Master 2 CCI - Equipe ALLAS/BOUKERROUI/PACORY
+        </p>
+  </body>
+</html>

@@ -1,0 +1,94 @@
+[OPTIONS]
+Compatibility=1.1 or later
+Compiled file=ExaMAP.chm
+Contents file=ExaMAP.hhc
+Default Window=W1
+Default topic=presentation_application.html
+Display compile progress=No
+Error log file=ExaMAP.log
+Full-text search=Yes
+Index file=ExaMAP.hhk
+Language=0x40c Français (France)
+Title=Fichier d'Aide HTML d'ExamMAP
+
+[WINDOWS]
+W1="Fichier d'Aide HTML d'ExaMAP","ExaMAP.hhc","ExaMAP.hhk","presentation_application.html","presentation_application.html","urlmaster2cci.html","Master CCI","urlpackagermd.html","Package RMD",0x62521,100,0xc382e,[52,37,591,569],,,,,1,,0
+
+
+[FILES]
+contacts_et_informations.html
+description_des_menus.html
+informations_de_base.html
+menu_affichage.html
+menu_aide.html
+menu_fichier.html
+nouveautes.html
+page_a_propos.html
+page_accueil.html
+page_animation.html
+page_code.html
+page_compilation.html
+page_desassemblage.html
+page_executable.html
+page_expression.html
+personnaliser_application.html
+presentation_application.html
+remerciements.html
+utiliser_application.html
+raccourcis_clavier.html
+menu_traitements.html
+menu_edition.html
+images\btnce.bmp
+images\btneffacer.bmp
+images\btngenere.bmp
+images\btnouvrir.bmp
+images\btnpause.bmp
+images\btnplay.bmp
+images\btnstop.bmp
+images\btnTraduirePostFixee.jpg
+images\btnz.bmp
+images\Expession1.bmp
+images\exprssion.bmp
+images\GenrExprArithm.JPG
+images\img2.gif
+images\img2.jpg
+images\img3.gif
+images\img3.jpg
+images\pagaccueil.jpg
+images\Saisie manuelle.JPG
+images\Sans titre.bmp
+images\screenanimation.bmp
+images\spacer.gif
+images\spacer.jpg
+images\variateurvitesse.bmp
+
+[ALIAS]
+IDH_CONTACTS_ET_INFORMATIONS      = contacts_et_informations.html
+IDH_DESCRIPTION_DES_MENUS         = description_des_menus.html
+IDH_INFORMATIONS_DE_BASE          = informations_de_base.html
+IDH_MENU_AFFICHAGE                = menu_affichage.html
+IDH_MENU_AIDE                     = menu_aide.html
+IDH_MENU_EDITION                  = menu_edition.html
+IDH_MENU_FICHIER                  = menu_fichier.html
+IDH_MENU_TRAITEMENTS=menu_traitements.html
+IDH_NOUVEAUTES=nouveautes.html
+IDH_PAGE_A_PROPOS                 = page_a_propos.html
+IDH_PAGE_ACCUEIL                  = page_accueil.html
+IDH_PAGE_ANIMATION                = page_animation.html
+IDH_PAGE_CODE                     = page_code.html
+IDH_PAGE_COMPILATION              = page_compilation.html
+IDH_PAGE_DESASSEMBLAGE            = page_desassemblage.html
+IDH_PAGE_DOCUMENTATION            = page_documentation.html
+IDH_PAGE_EXECUTABLE               = page_executable.html
+IDH_PAGE_EXPRESSION               = page_expression.html
+IDH_PERSONNALISER_APPLICATION     = personnaliser_application.html
+IDH_PRESENTATION_APPLICATION=presentation_application.html
+IDH_RACCOURCIS_CLAVIER            = raccourcis_clavier.html
+IDH_REMERCIEMENTS                 = remerciements.html
+IDH_UTILISER_APPLICATION          = utiliser_application.html
+
+[MAP]
+#include ExaMAP.h
+
+[INFOTYPES]
+

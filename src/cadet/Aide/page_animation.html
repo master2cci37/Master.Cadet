@@ -1,0 +1,99 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml">           
+  <head>                   
+    <meta http-equiv="content-type" content="text/html; charset=iso-8859-1" />          
+    <title>Page Animation                   
+    </title>                   
+    <link href="default.css" rel="stylesheet" type="text/css" />           
+  </head>           
+  <body>			       <h1>Page Animation     </h1>       <h2>
+  Execution d'un programme exécutable sous forme visuelle et animée</h2>			  
+     <h3>Présentation du fonctionnement</h3>    
+    <p>L'utilisateur peut soit exécuter le programme déjà en mémoire et dont l'instruction    vient d'être compilée, soit ouvrir un fichier exécutable existant (*.exec).     
+    </p>	          
+    <p>
+      <img border="0" src="images/screenAnimation.bmp" alt="ecran animation" />
+    </p>    
+    <p>Une fois en mémoire, le fichier est désassemblé pour retrouver le code en langage MAP d'origine.    Les variables sont affichées dans la table à gauche de l'animation.     
+    </p>      	          
+    <p>Pour calculer un résultat issu du programme chargé, il est préférable de saisir des valeurs (entre 0 et 9). Le bouton  
+      <img border="0" valign="middle" src="images/btngenere.bmp" alt="bouton genere" />vous permet de faire compléter de façon aléatoire l'ensemble des valeurs des variables en mémoire. 
+    </p>
+    <p>La vitesse d'exécution de l'animation peut être adaptée par le variateur présent en bas à gauche. 
+    </p>
+    <p>A partir de là, l'animation peut démarrer en cliquant sur le bouton
+      <img border="0" valign="middle" src="images/btnplay.bmp" alt="bouton joue" />.En fin d'exécution, la valeur calculée résultant de l'expression compilée et des valeurs fournies sera affichée. 
+    </p>    <h3>Description des zones de saisie et d'affichage</h3>
+    <p>
+      <dl>	
+        <dt><h4>Code ()</h4>
+        </dt>
+        <dd>Contient le code source de désassemblage	du fichier exécutable chargé en mémoire et qui va être traité. Le nombre d'instructions à traiter 	est indiqué entre parenthèses.
+        </dd>	
+        <dt><h4>Variables</h4>
+        </dt>
+        <dd>Contient les noms et valeurs des variables de l'expression compilée.
+        </dd>	
+        <dt><h4>Pile ()</h4>
+        </dt>
+        <dd>Contient les résultats intermédiaires, les valeurs directes d'instructions,	ou récupérées de variables en mémoire. Il s'agit d'une pile LIFO. Le dernier élément arrivé, 	devient le premier opérande à être traité. Le nombre d'éléments en attente dans la pile est indiqué entre parenthèses.
+        </dd>	
+        <dt><h4>Opérande 1</h4>
+        </dt>
+        <dd>Premier opérande issu d'un élément de la pile LIFO.
+        </dd>	
+        <dt><h4>Opérande 2</h4>
+        </dt>
+        <dd>Second opérande issu d'un élément de la pile LIFO.
+        </dd>	
+        <dt><h4>Opérateur</h4>
+        </dt>
+        <dd>Contient l'opérateur post fixé qui va servir au calcul entre les deux opérandes.
+        </dd>	
+        <dt><h4>Résultat</h4>
+        </dt>
+        <dd>Contient le résultat du calcul intermédiaire, ou le résultat final.
+        </dd>
+      </dl>
+    </p>    <h3>Rôle des différents boutons de l'écran d'animation</h3>
+    <p>
+      <dl>	
+        <dt>
+          <img border="0" valign="middle" src="images/btnouvrir.bmp" alt="bouton ouvrir" />
+        </dt>	
+        <dd>Ouvrir un fichier exécutable existant (*.exec)
+        </dd>	
+        <dt>
+          <img border="0" valign="middle" src="images/btngenere.bmp" alt="bouton genere" />
+        </dt>	
+        <dd>Fournit de façon aléatoire l'ensemble des valeurs des variables en mémoire
+        </dd>	
+        <dt>
+          <img border="0" valign="middle" src="images/btnplay.bmp" alt="bouton joue" />
+        </dt>	
+        <dd>Démarre l'animation
+        </dd>	
+        <dt>
+          <img border="0" valign="middle" src="images/btnpause.bmp" alt="bouton pause" />
+        </dt>	
+        <dd>Effectue une pause dans l'animation
+        </dd>	
+        <dt>
+          <img border="0" valign="middle" src="images/btnstop.bmp" alt="bouton stop" />
+        </dt>	
+        <dd>Arrête l'animation et réinitialise les zones pile, opérandes, opérateur et résultat
+        </dd>	
+        <dt>
+          <img border="0" valign="middle" src="images/variateurvitesse.bmp" alt="variateur vitesse" />
+        </dt>	
+        <dd>Adapte la vitesse d'exécution de l'animation
+        </dd>
+      </dl>
+    </p>    
+    <div style="clear: both;">&nbsp;                      
+    </div>                           
+    <div id="pied">	                              
+      <p>ExaMAP - Copyright &copy; 2007-2008 - Master 2 CCI - Equipe ALLAS/BOUKERROUI/PACORY       
+      </p>           
+  </body>
+</html>

@@ -1,0 +1,134 @@
+ExaMAP - Version 1.0
+
+=Présentation d'ExaMAP
+
+-Présentation et Fonctionnalités
+....
+
+=Informations de base
+
+-Nouveautés
+
+Version x.xx du xxxx
+
+lister les ajouts, suppressions et corrections
+
+-Remerciements
+
+Sources utilisées
+
+Logiciels utilisés 
+
+Personnes : 
+Je remercie toutes les personnes qui participent au développement de PSPad - tests, rapports de bogues, donations, suggestions de nouvelles fonctionnalités...
+
+-Contacts et informations
+
+A propos du programme
+
+ExaMAP est écrit en Borland Turbo Delphi Explorer 2006
+
+Le programme n'utilise aucun composant extérieur
+
+Les unités métiers sont de M. RM DI SCALA et ont été traduites par l'équipe de développement agile. des auteurs 
+
+A propos des auteurs
+
+Nom:  
+e-mail:  
+Première compétence
+
+Nom:  
+e-mail:  
+Première compétence
+
+Nom:  
+e-mail:  
+Première compétence
+
+A propos du master 2 CCI
+
+Site : 
+
+
+=Utiliser ExaMAP
+
+-Page d'accueil
+
+liens panneau gauche
+boutons
+tâches
+
+- Page Expression
+
+- Page Compilation
+
+- Page Code
+
+- Page Exécutable
+
+- Page Désassemblage
+
+- Page Animation
+
+- Page Aide
+
+- Page A Propos
+
+- Raccourcis Clavier
+
+Alt+Q Quitter l'application
+....
+
+=Description des menus
+
+-Menu - Fichier
+
+titre
+description
+
+-Menu - Affichage
+
+titre
+description
+
+-Menu - Aide
+
+titre
+description
+
+
+=Personnaliser ExaMAP
+
+lister les possibilités
+
+
+
+21 fichiers
+
+=Présentation d'ExaMAP
+
+=Informations de base
+-Nouveautés
+-Remerciements
+-Contacts et informations
+
+=Utiliser ExaMAP
+-Page d'accueil
+- Page Expression
+- Page Compilation
+- Page Code
+- Page Exécutable
+- Page Désassemblage
+- Page Animation
+- Page Aide
+- Page A Propos
+- Raccourcis Clavier
+
+=Description des menus
+-Menu - Fichier
+-Menu - Affichage
+-Menu - Aide
+
+=Personnaliser ExaMAP
+
